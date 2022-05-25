@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- :telescope: I’m working as a Technical Support Network Specialist. Trying to contribute to frontend web development/applications & cyber security.
+- :telescope: Currently working as a Technical Support Network Specialist. Contributing to frontend web development & cyber security.
 
 - :seedling: Exploring Technical Content Writing and virtual network design. Developing a few blogs entries. *Stay tuned!* - 🛰️:
 

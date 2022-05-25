@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of the EV revolution!
 
-- :mailbox:How to reach me:  (https://www.linkedin.com/in/daniel-j-w-torres/) (http://github.com/testcomputer)
+- :mailbox:How to reach me:  (https://www.linkedin.com/in/daniel-j-w-torres/)
 
   </div>
   

@@ -6,20 +6,29 @@ Here are some ideas to get you started:
 
 -->
 
+<h1 align="center">
+ <img src="https://camo.githubusercontent.com/d88bdce683bc31abcfc8fd8774880f5a305e4e59/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" />
+</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
   
-<h1>&#128526;<h1>
+
   
 </div>
 
 <h1>
   Greetings! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>   
+</h1> 
+
+<h1>&#128526;<h1>
+
+
+
+
 
 - :telescope: Currently working as a Technical Support Network Specialist. Contributing to frontend web development & cyber security.
 
@@ -44,13 +53,8 @@ Here are some ideas to get you started:
   
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=testcomputer&&count_private=true&theme=tokyonight&show_icons=true)
 
-
-  
-  
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&langs_count=5&theme=tokyonight)]()
-  
-  
-  
+    
   </div>
   
 
@@ -61,13 +65,16 @@ Here are some ideas to get you started:
   
 
  <img src="https://media1.giphy.com/media/gU25raLP4pUu4/giphy.gif?cid=790b761…&rid=giphy.gif&ct=g" alt="Coding Blue Screen GIF" style="width: 500px; height: 375px; left: 0px; top: 0px; opacity: 0;">
-
-
   
    <p align="center">
 <a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" screenshots/Referrals/azure_referral.png/></a></p>
 
   
-  
-  
-  
+<!-- Editor's notes: 
+
+
+
+
+
+
+-->

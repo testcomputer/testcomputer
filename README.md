@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 </h1> 
 
 
-- :telescope: Currently working as a Technical Support Network Specialist. Contributing to frontend web development & cyber security.
+- :telescope: Currently working as a technical support network specialist. Contributing to frontend web development & cyber security.
 
-- :seedling: Exploring Technical Content Writing and virtual network design. Developing a few blogs entries. *Stay tuned!* - 🛰️:
+- :seedling: Exploring technical content writing and virtual network design. Developing a few blogs entries. *Stay tuned!* - 🛰️:
 
 - :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of the EV revolution!
 

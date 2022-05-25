@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 
  
- [![Watch the video]<h1 align="center"> <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://iruntheinternet.com/lulzdump/images/gifs/IT-crowd-Maurice-Moss-ignoring-fire-computer-1382704848t.gif">  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="http://3.bp.blogspot.com/-4qWTwclCzmg/VPcEgcA10nI/AAAAAAAAECQ/xz81Moc1z4I/s1600/14.gif">
+<h1 align="center"> <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://iruntheinternet.com/lulzdump/images/gifs/IT-crowd-Maurice-Moss-ignoring-fire-computer-1382704848t.gif">  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="http://3.bp.blogspot.com/-4qWTwclCzmg/VPcEgcA10nI/AAAAAAAAECQ/xz81Moc1z4I/s1600/14.gif">
   
 
 <h1 align="center"> <img src="https://media1.giphy.com/media/gU25raLP4pUu4/giphy.gif?cid=790b761…&rid=giphy.gif&ct=g" alt="Coding Blue Screen GIF" style="width: 500px; height: 375px; left: 0px; top: 0px; opacity: 0;">

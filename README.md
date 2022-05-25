@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 <h1>
   Greetings! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>   
+&#128526;<h1>
+
+
+
+
 </h1> 
-
-<h1>&#128526;<h1>
-
-
-
 
 
 - :telescope: Currently working as a Technical Support Network Specialist. Contributing to frontend web development & cyber security.

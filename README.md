@@ -11,16 +11,14 @@ Here are some ideas to get you started:
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/104815254/170267211-7f5c43d2-cc8b-4e82-8bf3-068591c66093.gif" width="100"/>
+ 
+ 
+
+ 
+ 
 </div>
 <div id="badges">
-  
-
-
- 
- 
- 
- 
   
 </div>
 

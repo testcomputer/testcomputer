@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🧮 Contributing to frontend web development & cyber security.
  
-- :seedling: Exploring technical content writing and virtual network design. Developing a few blogs entries. *Stay tuned!* - 🛰️:
+- :seedling: Exploring technical content writing and virtual network design. Developing a few blogs entries. *Stay tuned!* - 🛰️
 
 - :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of the EV revolution!
 

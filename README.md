@@ -16,12 +16,18 @@ Here are some ideas to get you started:
 <div id="badges">
   
 
+
+ 
+ 
+ 
+ 
   
 </div>
 
 
 <h1 align="center">
   Greetings! 
+ 
   <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"/>
 </h1> 
 
@@ -65,7 +71,7 @@ Here are some ideas to get you started:
 
 
  
-<h1 align="center"> <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://iruntheinternet.com/lulzdump/images/gifs/IT-crowd-Maurice-Moss-ignoring-fire-computer-1382704848t.gif">  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="http://3.bp.blogspot.com/-4qWTwclCzmg/VPcEgcA10nI/AAAAAAAAECQ/xz81Moc1z4I/s1600/14.gif">
+ [![Watch the video]<h1 align="center"> <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://iruntheinternet.com/lulzdump/images/gifs/IT-crowd-Maurice-Moss-ignoring-fire-computer-1382704848t.gif">  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="http://3.bp.blogspot.com/-4qWTwclCzmg/VPcEgcA10nI/AAAAAAAAECQ/xz81Moc1z4I/s1600/14.gif">
   
 
 <h1 align="center"> <img src="https://media1.giphy.com/media/gU25raLP4pUu4/giphy.gif?cid=790b761…&rid=giphy.gif&ct=g" alt="Coding Blue Screen GIF" style="width: 500px; height: 375px; left: 0px; top: 0px; opacity: 0;">

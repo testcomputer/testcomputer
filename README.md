@@ -33,8 +33,7 @@ Keep your code clean
 <h1 align="center">
     
 <a href="https://www.linkedin.com/in/daniel-j-w-torres/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 <a href="your-youtube-URL">
 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a>
@@ -53,14 +52,12 @@ Keep your code clean
 </div> 
 <img src="https://camo.githubusercontent.com/d13643f87a628203f5f3f8eaf8352acf18ea045e8f4d255b8b39345478396d36/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a307368626c30636b266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b26686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" style="max-width: 100%;">
 
-
 <h1 align="center">
 Current Projects:
 </h1>
  
 <h1 align="center"> <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://iruntheinternet.com/lulzdump/images/gifs/IT-crowd-Maurice-Moss-ignoring-fire-computer-1382704848t.gif">  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="http://3.bp.blogspot.com/-4qWTwclCzmg/VPcEgcA10nI/AAAAAAAAECQ/xz81Moc1z4I/s1600/14.gif">
   
-
 <h1 align="center"> <img src="https://media1.giphy.com/media/gU25raLP4pUu4/giphy.gif?cid=790b761…&rid=giphy.gif&ct=g" alt="Coding Blue Screen GIF" style="width: 500px; height: 375px; left: 0px; top: 0px; opacity: 0;">
   
 <h1 align="center">

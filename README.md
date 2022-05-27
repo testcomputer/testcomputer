@@ -21,7 +21,7 @@ Keep your code clean
 
 - :telescope: Currently working as a technical support network specialist. 
 
-- 🧮 Contributing to frontend web development & cyber security.
+- 🧮 Contributing to frontend web development & cyber security. Open-source contributor & life-long learner.
  
 - :seedling: Exploring technical content writing and virtual network design. Developing a few blogs entries. *Stay tuned!* - 🛰️
 

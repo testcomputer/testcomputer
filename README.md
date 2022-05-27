@@ -1,6 +1,5 @@
 <!--
 **testcomputer/testcomputer** 
-Here are some ideas to get you started:
 Keep your code clean
 -->
 

@@ -65,36 +65,36 @@ Current Projects:
  
  
 
-<h3>
+<h4>
 <details>
 <summary><strong>My Github Stats</strong></summary>
 <img src = "https://github-readme-stats.vercel.app/api?username=testcomputer&count_private=true&include_all_commits=true&theme=buefy&show_icons=true" alt="Pankaj's Github Stats"
 width="400" />
 </details>
-</h3>
+</h4>
 
  
  
- <h3>
+ <h4>
  <details>
   <summary><strong> GitHub QR code</strong></summary>
   <img src="https://user-images.githubusercontent.com/104815254/170821003-5c96b0ba-e486-4af8-bae4-f9a129c09ed6.png" />
  </details>
- </h3>
+ </h4>
  
-<h3>
+<h4>
 <details>
 <summary><strong>Mostly Used Languages </strong></summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact" alt="Pankaj's mostly used Languages"/>
 </details>
-</h3>
+</h4>
 
-<h3>
+<h4>
 <details>
 <summary><strong>My Github Streak</strong></summary>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=testcomputer&show_icons=true&locale=en&layout=compact" alt="Pankaj's github streak" width="450" />
 </details>
-</h3>
+</h4>
 
 
  

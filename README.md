@@ -72,14 +72,15 @@ Keep your code neat
   
 
 </h4>
-    
-<h4>
-    <details>
+
+  <!--   <details>
       <summary><strong> Example </strong></summary>
     </details>
-</h4>
+
  
- #### Network Security Projects
+-->
+<h1 align="center">  Network Security Projects 
+</h1>
 This repository contains a series of projects relative to network security (attack and mitigation). 
     I work on the development of different projects related to network security, by studying 
     vulnerabilities and countermeasures in networking systems and communication protocols, I 
@@ -105,7 +106,8 @@ Topics
 
     Project 6: IPS for SYN flood mitigations (Statical/Behavioral/Cookies protections)
 
-    
+<!-- 
+   
 <h4>
     <details>
       <summary><strong>Mostly Used Languages </strong></summary>
@@ -113,10 +115,11 @@ Topics
     </details>
 </h4>
 
+-->
 <h4>
     <details>
       <summary><strong>My Github Streak</strong></summary>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=testcomputer&show_icons=true&locale=en&layout=compact" alt="testcomputer's github streak" width="450" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=testcomputer&show_icons=true&locale=en&layout=compact&" alt="testcomputer's github streak" width="450" />
     </details>
 </h4>
 

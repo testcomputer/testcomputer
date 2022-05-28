@@ -27,7 +27,7 @@ Keep your code neat
 
 - :telescope: Currently working as a network specialist.
 
-- 🧮 Contributing to web development & cyber security. Open-source contributor.
+- 🧮 Advancing in web development & cyber security. Open-source contributor.
  
 - :seedling: Exploring technical content writing and virtual network design. Developing a few blogs entries. *Stay tuned!* - 🛰️
 

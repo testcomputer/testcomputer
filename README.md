@@ -70,13 +70,7 @@ Keep your code neat
   
 <h1 align="center">
   
-<h4> 
-<details>
-      <summary><strong>My Github Stats</strong></summary>
-      <img src = "https://github-readme-stats.vercel.app/api?username=testcomputer&count_private=true&include_all_commits=true&theme=buefy&show_icons=true" alt="Github Stats"
-width="400" />
-    </details>
- 
+
 </h4>
     
 <h4>

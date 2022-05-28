@@ -91,7 +91,7 @@ This repository contains a series of projects relative to network security (atta
     developed a set of active defence mechanisms to protect a system on different layers.
     
     
-### All the codes developed were written in Bash, C++ and/or Python on a Linux OS.
+### All the codes developed were written in Bash, Lua, C++ and/or Python on a Linux OS.
 Every projects folder contains the following files:
 
 Description document which defines the guidelines/deliverables and in some cases input and example of output files.

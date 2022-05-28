@@ -110,7 +110,6 @@ width="400" />
 
 Reference link to Microsoft Azure  
 
--->
 
 <p align="center">
     <a href="https://www.azure.com" target="_blank"> <img
@@ -118,6 +117,8 @@ Reference link to Microsoft Azure
         screenshots/Referrals/azure_referral.png/>
     </a>
 </p>
+
+-->
 
 <!-- Editor's notes: 
 

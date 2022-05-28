@@ -29,11 +29,11 @@ Keep your code neat
 
 - 🧮 Advancing in web development & cyber security. Open-source contributor.
  
-- :seedling: Exploring technical content writing and virtual network design. Developing a few blogs entries. *Stay tuned!* - 🛰️
+- :seedling: Exploring technical content writing and virtual network design. Developing a few blogs entries. *Stay tuned!* 
 
 - :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of the EV revolution! 
 
-- :black_joker: There is an easter egg located somewhere in this file. Happy hunting! 🎯 <!-- {YOU_FOUND.THE.FLAG} -->
+- :black_joker: There is an easter egg located somewhere in this file. Happy hunting! <!-- {YOU_FOUND.THE.FLAG} -->
 
 - :mailbox: How to reach me: [Linkedin](https://www.linkedin.com/in/daniel-j-w-torres)
 
@@ -73,7 +73,6 @@ Keep your code neat
 </h1>
  
 <h1 align="center"> 
-      <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://iruntheinternet.com/lulzdump/images/gifs/IT-crowd-Maurice-Moss-ignoring-fire-computer-1382704848t.gif">  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="http://3.bp.blogspot.com/-4qWTwclCzmg/VPcEgcA10nI/AAAAAAAAECQ/xz81Moc1z4I/s1600/14.gif">
   
 <h1 align="center">
   

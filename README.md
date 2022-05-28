@@ -75,8 +75,7 @@ Keep your code neat
     
 <h4>
     <details>
-      <summary><strong> GitHub QR code</strong></summary>
-      <img src="https://user-images.githubusercontent.com/104815254/170821003-5c96b0ba-e486-4af8-bae4-f9a129c09ed6.png" />
+      <summary><strong> Example </strong></summary>
     </details>
 </h4>
  

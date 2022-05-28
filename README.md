@@ -25,13 +25,13 @@ Keep your code neat
 <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"/>
 </h1> 
 
-- :telescope: Currently working as a technical support network specialist. 
+- :telescope: Currently working as a network specialist for an ISP. 
 
-- 🧮 Contributing to frontend web development & cyber security. Open-source contributor & life-long learner.
+- 🧮 Contributing to web development & cyber security. Open-source contributor.
  
 - :seedling: Exploring technical content writing and virtual network design. Developing a few blogs entries. *Stay tuned!* - 🛰️
 
-- :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of the EV revolution!
+- :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of the EV revolution! 
 
 - :black_joker: There is an easter egg located somewhere in this file. Happy hunting! 🎯 <!-- {YOU_FOUND.THE.FLAG} -->
 

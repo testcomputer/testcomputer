@@ -53,15 +53,16 @@ Keep your code clean
  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=testcomputer&&count_private=true&theme=tokyonight&show_icons=true)
  
- 
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&langs_count=5&theme=tokyonight)
+ ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&langs_count=5&theme=tokyonight)
     
 </div> 
+    
 <img src="https://camo.githubusercontent.com/d13643f87a628203f5f3f8eaf8352acf18ea045e8f4d255b8b39345478396d36/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a307368626c30636b266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b26686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" style="max-width: 100%;">
     
 </h1>
  
-<!-- <details>
+<!-- 
+<details>
 <summary>Web development</summary> Web development, also known as website development, refers to the tasks associated with creating, building, and maintaining websties.
 </p>
 </details>
@@ -84,9 +85,7 @@ width="400" />
     </details>
  
 </h4>
-
- 
- 
+    
 <h4>
     <details>
       <summary><strong> GitHub QR code</strong></summary>

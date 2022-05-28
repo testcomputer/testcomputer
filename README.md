@@ -56,11 +56,12 @@ Keep your code clean
  
 Achieve cybersecurity resilence
  
-<details>
+<!-- <details>
 <summary>Web development</summary> Web development, also known as website development, refers to the tasks associated with creating, building, and maintaining websties.
 </p>
 </details>
-   
+-->
+
 <h1 align="center">
 Current Projects:
 </h1>

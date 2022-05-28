@@ -54,29 +54,7 @@ Keep your code clean
 <img src="https://camo.githubusercontent.com/d13643f87a628203f5f3f8eaf8352acf18ea045e8f4d255b8b39345478396d36/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a307368626c30636b266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b26686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" style="max-width: 100%;">
  </h1>
  
- 
- 
  Achieve cybersecurity resilence
- 
- Leverage data science
- 
- Predict cyber risks
- 
- Web Development (Front end)
-    -HTML
-    -CSS
-    -Bootstrap
-    -Javascript
-    -Jquerry
- 
- Web Development (Back end)
-     -Python
-     -Django
-     -SQL
-     -MySQL
-     -MongoDB
- 
- 
  
  <details>
   <summary>Web development</summary> Web development, also known as website development, refers to the tasks associated with creating, building, and maintaining websties.

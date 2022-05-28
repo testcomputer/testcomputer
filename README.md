@@ -1,6 +1,6 @@
 <!--
 **testcomputer/testcomputer** 
-Keep your code clean
+Keep your code neat
 -->
 
 <h1 align="center">
@@ -53,7 +53,7 @@ Keep your code clean
  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=testcomputer&&count_private=true&theme=tokyonight&show_icons=true)
  
- ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&langs_count=5&theme=tokyonight)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&langs_count=5&theme=tokyonight)
     
 </div> 
     
@@ -68,7 +68,8 @@ Keep your code clean
 </details>
 -->
 
-<h1 align="center">Current Projects:
+<h1 align="center">
+    Current Projects:
 </h1>
  
 <h1 align="center"> 
@@ -126,7 +127,11 @@ Reference link to Microsoft Azure
 -->
 
 <p align="center">
-<a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" screenshots/Referrals/azure_referral.png/></a></p>
+    <a href="https://www.azure.com" target="_blank"> <img
+        src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" 
+        screenshots/Referrals/azure_referral.png/>
+    </a>
+</p>
 
 <!-- Editor's notes: 
 

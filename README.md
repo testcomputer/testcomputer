@@ -59,7 +59,39 @@ Current Projects:
   
 <h1 align="center"> <img src="https://media1.giphy.com/media/gU25raLP4pUu4/giphy.gif?cid=790b761…&rid=giphy.gif&ct=g" alt="Coding Blue Screen GIF" style="width: 500px; height: 375px; left: 0px; top: 0px; opacity: 0;">
   
-<h1 align="center">
+
+ 
+ 
+
+<h3>
+<details>
+<summary><strong>My Github Stats</strong></summary>
+<img src = "https://github-readme-stats.vercel.app/api?username=testcomputer&count_private=true&include_all_commits=true&theme=buefy&show_icons=true" alt="Pankaj's Github Stats"
+width="400" />
+</details>
+</h3>
+
+
+
+<h3>
+<details>
+<summary><strong>Mostly Used Languages </strong></summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact" alt="Pankaj's mostly used Languages"/>
+</details>
+</h3>
+
+<h3>
+<details>
+<summary><strong>My Github Streak</strong></summary>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=testcomputer&show_icons=true&locale=en&layout=compact" alt="Pankaj's github streak" width="450" />
+</details>
+</h3>
+
+
+ 
+ 
+ 
+ <h1 align="center">
 Aspiration
 </h1>
 

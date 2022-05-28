@@ -4,14 +4,21 @@ Keep your code clean
 -->
 
 <h1 align="center">
-<img src="https://camo.githubusercontent.com/d88bdce683bc31abcfc8fd8774880f5a305e4e59/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" />
+    <img src="https://camo.githubusercontent.com/d88bdce683bc31abcfc8fd8774880f5a305e4e59/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" />
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="testcomputer" /> </p>
+
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="testcomputer" /> 
+</p>
+
 <div id="header" align="center">
+ 
 <img src="https://user-images.githubusercontent.com/104815254/170267211-7f5c43d2-cc8b-4e82-8bf3-068591c66093.gif" width="100"/>
  
 </div>
+
 <div id="badges">
+ 
 </div>
 
 <h1 align="center"> Greetings! 
@@ -60,56 +67,64 @@ Keep your code clean
 </details>
 -->
 
-<h1 align="center">
-Current Projects:
+<h1 align="center">Current Projects:
 </h1>
  
-<h1 align="center"> <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://iruntheinternet.com/lulzdump/images/gifs/IT-crowd-Maurice-Moss-ignoring-fire-computer-1382704848t.gif">  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="http://3.bp.blogspot.com/-4qWTwclCzmg/VPcEgcA10nI/AAAAAAAAECQ/xz81Moc1z4I/s1600/14.gif">
+<h1 align="center"> 
+      <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://iruntheinternet.com/lulzdump/images/gifs/IT-crowd-Maurice-Moss-ignoring-fire-computer-1382704848t.gif">  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="http://3.bp.blogspot.com/-4qWTwclCzmg/VPcEgcA10nI/AAAAAAAAECQ/xz81Moc1z4I/s1600/14.gif">
   
-<h1 align="center"> <img src="https://media1.giphy.com/media/gU25raLP4pUu4/giphy.gif?cid=790b761…&rid=giphy.gif&ct=g" alt="Coding Blue Screen GIF" style="width: 500px; height: 375px; left: 0px; top: 0px; opacity: 0;">
+<h1 align="center">
+      <img src="https://media1.giphy.com/media/gU25raLP4pUu4/giphy.gif?cid=790b761…&rid=giphy.gif&ct=g" alt="Coding Blue Screen GIF" style="width: 500px; height: 375px; left: 0px; top: 0px; opacity: 0;">
   
-<h4>
+<h4> 
 <details>
-<summary><strong>My Github Stats</strong></summary>
-<img src = "https://github-readme-stats.vercel.app/api?username=testcomputer&count_private=true&include_all_commits=true&theme=buefy&show_icons=true" alt="Github Stats"
+      <summary><strong>My Github Stats</strong></summary>
+      <img src = "https://github-readme-stats.vercel.app/api?username=testcomputer&count_private=true&include_all_commits=true&theme=buefy&show_icons=true" alt="Github Stats"
 width="400" />
-</details>
+    </details>
+ 
 </h4>
 
  
- 
- <h4>
- <details>
-  <summary><strong> GitHub QR code</strong></summary>
-  <img src="https://user-images.githubusercontent.com/104815254/170821003-5c96b0ba-e486-4af8-bae4-f9a129c09ed6.png" />
- </details>
- </h4>
  
 <h4>
-<details>
-<summary><strong>Mostly Used Languages </strong></summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact" alt="testcomputer's mostly used Languages"/>
-</details>
+    <details>
+      <summary><strong> GitHub QR code</strong></summary>
+      <img src="https://user-images.githubusercontent.com/104815254/170821003-5c96b0ba-e486-4af8-bae4-f9a129c09ed6.png" />
+    </details>
+</h4>
+ 
+<h4>
+    <details>
+      <summary><strong>Mostly Used Languages </strong></summary>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact" alt="testcomputer's mostly used Languages"/>
+    </details>
 </h4>
 
 <h4>
-<details>
-<summary><strong>My Github Streak</strong></summary>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=testcomputer&show_icons=true&locale=en&layout=compact" alt="testcomputer's github streak" width="450" />
-</details>
+    <details>
+      <summary><strong>My Github Streak</strong></summary>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=testcomputer&show_icons=true&locale=en&layout=compact" alt="testcomputer's github streak" width="450" />
+    </details>
 </h4>
 
 
  
  
  
- <h1 align="center">
-Aspiration
+<h1 align="center">
+   Aspiration
 </h1>
 
 <h1 align="center">
-<img src="https://i.pinimg.com/originals/c6/09/4c/c6094c95db35eb8c9cebbc354a91ef3a.gif" />
+   <img src="https://i.pinimg.com/originals/c6/09/4c/c6094c95db35eb8c9cebbc354a91ef3a.gif" />
 </h1>
+
+ <!-- 
+
+Reference link to Microsoft Azure  
+
+-->
 
 <p align="center">
 <a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" screenshots/Referrals/azure_referral.png/></a></p>

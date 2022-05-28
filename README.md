@@ -76,7 +76,6 @@ Keep your code neat
       <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://iruntheinternet.com/lulzdump/images/gifs/IT-crowd-Maurice-Moss-ignoring-fire-computer-1382704848t.gif">  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="http://3.bp.blogspot.com/-4qWTwclCzmg/VPcEgcA10nI/AAAAAAAAECQ/xz81Moc1z4I/s1600/14.gif">
   
 <h1 align="center">
-      <img src="https://media1.giphy.com/media/gU25raLP4pUu4/giphy.gif?cid=790b761…&rid=giphy.gif&ct=g" alt="Coding Blue Screen GIF" style="width: 500px; height: 375px; left: 0px; top: 0px; opacity: 0;">
   
 <h4> 
 <details>
@@ -107,18 +106,6 @@ width="400" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=testcomputer&show_icons=true&locale=en&layout=compact" alt="testcomputer's github streak" width="450" />
     </details>
 </h4>
-
-
- 
- 
- 
-<h1 align="center">
-   Aspiration
-</h1>
-
-<h1 align="center">
-   <img src="https://i.pinimg.com/originals/c6/09/4c/c6094c95db35eb8c9cebbc354a91ef3a.gif" />
-</h1>
 
  <!-- 
 

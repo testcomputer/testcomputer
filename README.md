@@ -102,7 +102,7 @@ Current Projects:
 <h4>
 <details>
 <summary><strong>My Github Stats</strong></summary>
-<img src = "https://github-readme-stats.vercel.app/api?username=testcomputer&count_private=true&include_all_commits=true&theme=buefy&show_icons=true" alt="Pankaj's Github Stats"
+<img src = "https://github-readme-stats.vercel.app/api?username=testcomputer&count_private=true&include_all_commits=true&theme=buefy&show_icons=true" alt="Github Stats"
 width="400" />
 </details>
 </h4>
@@ -119,14 +119,14 @@ width="400" />
 <h4>
 <details>
 <summary><strong>Mostly Used Languages </strong></summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact" alt="Pankaj's mostly used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact" alt="testcomputer's mostly used Languages"/>
 </details>
 </h4>
 
 <h4>
 <details>
 <summary><strong>My Github Streak</strong></summary>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=testcomputer&show_icons=true&locale=en&layout=compact" alt="Pankaj's github streak" width="450" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=testcomputer&show_icons=true&locale=en&layout=compact" alt="testcomputer's github streak" width="450" />
 </details>
 </h4>
 

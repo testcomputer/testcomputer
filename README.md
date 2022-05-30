@@ -26,7 +26,7 @@ Keep your code neat
 
 - :telescope: Currently working as a network specialist using Juniper, Cisco, & Palo Alto network systems.
 
-- 🧮 Advancing in web development & cyber security. Open-source contributor.
+- 🧮 Advancing in web development using javascript, CSS, & php. Open-source contributor.
  
 - :seedling: Exploring technical content writing and virtual network design. Developing a few blogs entries. *Stay tuned!* 
 

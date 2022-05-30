@@ -17,7 +17,6 @@ Keep your code neat
 </div>
 
 <div id="badges">
- 
 </div>
 
 <h1 align="center"> Greetings! 
@@ -31,7 +30,7 @@ Keep your code neat
  
 - :seedling: Exploring technical content writing and virtual network design. Developing a few blogs entries. *Stay tuned!* 
 
-- :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of the EV revolution! 
+- :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of the EV revolution! <!-- Understand the code -->
 
 <!--
 

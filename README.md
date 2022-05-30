@@ -121,8 +121,8 @@ Topics
 -->
 <h4>
     <details>
-      <summary><strong>My Github Streak</strong></summary>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=testcomputer&show_icons=true&locale=en&layout=compact&" alt="testcomputer's github streak" width="450" />
+      <summary><strong>Professional Summary</strong></summary>
+      Motivated Linux System Administrator with proven knowledge in various open-source operating systems. Committed to improving network uptime and system availability. 
     </details>
 </h4>
 

@@ -119,13 +119,11 @@ Topics
 </h4>
 
 -->
-<h4>
+<h3>
     <details>
-      <summary><strong>Professional Summary</strong></summary>
-      Analytical Linux System Administrator with proven knowledge in various open-source operating systems. Committed to improving network uptime and system availability. 3 years of experience working with UNIX systems. Extensive understanding of installing, configuring and administering Linux systems. Known for exceptional performance in network diagnostics and development operations. Diligent troubleshooter, with strong communication skills to interact effectively with employees and departments various IT environments. Flexible with positive work attitude focused on producing results under tight deadlines. Demonstrated understanding of the Software Development Life Cycle. (SDLC)
-     
-    </details>
-</h4>
+        <summary><strong>Professional Summary</strong></summary><h5> Analytical Linux System Administrator with proven knowledge in various open-source operating systems. Committed to improving network uptime and system availability. 3 years of experience working with UNIX systems. Extensive understanding of installing, configuring and administering Linux systems. Known for exceptional performance in network diagnostics and development operations. Diligent troubleshooter, with strong communication skills to interact effectively with employees and various IT environments. Demonstrated understanding of the software development life cycle.
+     </details>
+</h5>
 
  <!-- 
 

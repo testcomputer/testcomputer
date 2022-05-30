@@ -122,7 +122,8 @@ Topics
 <h4>
     <details>
       <summary><strong>Professional Summary</strong></summary>
-      Motivated Linux System Administrator with proven knowledge in various open-source operating systems. Committed to improving network uptime and system availability. 
+      Analytical Linux System Administrator with proven knowledge in various open-source operating systems. Committed to improving network uptime and system availability. 3 years of experience working with UNIX systems. Extensive understanding of installing, configuring and administering Linux systems. Known for exceptional performance in network diagnostics and development operations. Diligent troubleshooter, with strong communication skills to interact effectively with employees and departments various IT environments. Flexible with positive work attitude focused on producing results under tight deadlines. Demonstrated understanding of the Software Development Life Cycle. (SDLC)
+     
     </details>
 </h4>
 

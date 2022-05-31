@@ -11,7 +11,7 @@ Keep your code neat
     <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="testcomputer" /> 
 </p>
 -->
-<div id="header" align="center">
+<<div id="header" align="center">
     <img src="https://user-images.githubusercontent.com/104815254/170267211-7f5c43d2-cc8b-4e82-8bf3-068591c66093.gif" width="100"/>
     
 </div>
@@ -20,10 +20,11 @@ Keep your code neat
 </div>
 
 <h1 align="center"> Greetings! 
- 
+ <!-- 
 <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"/>
 </h1> 
-
+-->
+    </h1>
 - :telescope: Currently working as a network specialist configuring Juniper, Cisco, & Palo Alto network systems.
 
 - 🧮 Advancing in web development using javascript, CSS, & php. Open-source contributor.

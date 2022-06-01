@@ -25,7 +25,7 @@ Keep your code neat
 </h1> 
 -->
     </h1>
-- :telescope: Currently working as a network specialist configuring Juniper, Cisco, & Palo Alto network systems.
+- :telescope: Currently working as a network specialist
 
 - 🧮 Advancing in web development using javascript, CSS, & php. Open-source contributor.
  
@@ -35,7 +35,7 @@ Keep your code neat
 
 <!--
 
-- :black_joker: There is an easter egg located somewhere in this file. Happy hunting! 
+- There is an easter egg located somewhere in this file. Happy hunting! 
 
 -->
 

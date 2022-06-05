@@ -25,7 +25,7 @@ Keep your code neat
 </h1> 
 -->
     </h1>
-- :telescope: Currently working as a network specialist
+    - :telescope: Currently working as a network specialist
 
 - 🧮 Advancing in web development using javascript, CSS, & php. Open-source contributor.
  

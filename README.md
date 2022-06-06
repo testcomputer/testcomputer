@@ -66,7 +66,7 @@ Keep your code neat
 </details>
 -->
 
-<h1 align="center"> Languages and Tools I use:</h3>
+<h3 align="center"> Languages and Tools I use:</h3>
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"
   alt="bootstrap" width="40" height="40"/> </a>

@@ -65,11 +65,8 @@ Keep your code neat
 </details>
 -->
 
-<h1 align="center">
-    Current Projects:
-</h1>
- <h3 align="left"> Languages and Tools I use:</h3>
-<p align="left">
+<h1 align="center"> Languages and Tools I use:</h3>
+<p align="center"> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"
   alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
@@ -87,18 +84,13 @@ Keep your code neat
  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt = "flutter" width="40" height="40"/></a>
  <a href="https://cloud.google.com/" target="_blank">
  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="40" height="40"/></a>
-</p>
+</p> </h1>
     
     
-    
-    
-    
+  
     
 <h1 align="center"> 
   
-<h1 align="center">
-  
-
 </h4>
 
   <!--   <details>

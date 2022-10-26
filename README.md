@@ -40,8 +40,7 @@ Keep your code neat
 
 
 
-
-                                              <!-- Understand the code -->
+ <!-- Understand the code -->
 
 
 

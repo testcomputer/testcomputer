@@ -26,13 +26,25 @@ Keep your code neat
 </h1> 
 --> </h1>
 
+
+
+
+
 - :telescope: Currently working as a network specialist
 
-- 🧮 Advancing in web development using javascript, CSS, & php. Open-source contributor.
+- 🧮 Advancing in web development using CSS, php, & \. Open-source contributor.
  
 - :seedling: Exploring technical content writing and virtual network design. Developing a few blogs entries. *Stay tuned!* 
 
-- :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of the EV revolution! <!-- Understand the code -->
+- :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of the EV revolution! 
+
+
+
+
+                                              <!-- Understand the code -->
+
+
+
 
 <!--
 

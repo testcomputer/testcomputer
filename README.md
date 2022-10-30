@@ -73,7 +73,12 @@ discordapp.com/users/414060872248459267
 <h1 align="center"> 
  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=testcomputer&&count_private=true&theme=tokyonight&show_icons=true)
- 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=testcomputer&count_private=true&theme=tokyonight&showicons=true)]() 
+    
+    
+    
+    
 </h1>
  
 <!-- 

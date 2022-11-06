@@ -32,7 +32,7 @@ Keep your code neat
 
 - :telescope: Currently working as a network specialist
 
-- 🧮 Advancing in web development using CSS, php, & \. Open-source contributor.
+- 🧮 Advancing in web development using CSS, JavaScript, & \. Open-source contributor.
  
 - :seedling: Exploring technical content writing and virtual network design. Developing a few blogs entries. *Stay tuned!* 
 

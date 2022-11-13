@@ -30,7 +30,7 @@ Keep your code neat
 
 
 
-- :telescope: Currently working as a network specialist
+- :telescope: Currently working as a junior network administrator. Aiming towards Network Engineer in 2023! CCNA + CompTIA Linux + Security +
 
 - 🧮 Advancing in web development using CSS, JavaScript, & \. Open-source contributor.
  

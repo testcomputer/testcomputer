@@ -30,7 +30,7 @@ Keep your code neat
 
 
 
-- :telescope: Currently working as a junior network administrator. Aiming towards Network Engineer in the making!
+- :telescope: Network engineer in the making!
 
 - 🧮 Advancing in web development using CSS, JavaScript, & \. Open-source contributor.
  

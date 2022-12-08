@@ -1,6 +1,8 @@
 <!--
 **testcomputer/testcomputer** 
 Keep your code neat
+Maintain simply structure
+And above all else, leave yourself notes
 -->
     
     

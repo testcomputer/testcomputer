@@ -30,7 +30,7 @@ Keep your code neat
 
 
 
-- :telescope: Network engineer in the making!
+- :telescope: Working as a network specialist!
 
 - 🧮 Advancing in web development using CSS, JavaScript, & \. Open-source contributor.
  

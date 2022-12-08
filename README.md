@@ -8,7 +8,7 @@ And above all else, leave yourself notes
     
 <h1 align="center">
     <img src="https://camo.githubusercontent.com/d88bdce683bc31abcfc8fd8774880f5a305e4e59/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" />
-</h1>
+        </h1>
  <!--
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="testcomputer" /> 
@@ -16,11 +16,10 @@ And above all else, leave yourself notes
 -->
 <div id="header" align="center">
     <img src="https://user-images.githubusercontent.com/104815254/170267211-7f5c43d2-cc8b-4e82-8bf3-068591c66093.gif" width="100"/>
-    
-</div>
+        </div>
 
 <div id="badges">
-</div>
+    </div>
 
 <h1 align="center"> Greetings! 
  <!-- 

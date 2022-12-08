@@ -194,7 +194,7 @@ Reference link to Microsoft Azure
 
 <!-- Editor's notes: 
 
-Keep all code clean. 
+Keep all code clean. Like your room, straighten up your code often.
 
 -->
 

@@ -22,10 +22,11 @@ And above all else, leave yourself notes
     </div>
 
 <h1 align="center"> Greetings! 
+    </h1>
  <!-- 
 <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"/>
 </h1> 
---> </h1>
+-->
 
 
 
@@ -41,7 +42,10 @@ And above all else, leave yourself notes
 
 
 
- <!-- Understand the code -->
+ <!-- Understand the code 
+    Practice simplicity
+    Take your time
+    Research & study new framworks and techniques-->
 
 
 
@@ -55,28 +59,27 @@ And above all else, leave yourself notes
 - :mailbox: How to reach me: [Linkedin](https://www.linkedin.com/in/daniel-j-w-torres)
 
 <h1 align="center">
-    
+
 <a href="https://www.linkedin.com/in/daniel-j-w-torres/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+            </a>
 <a href="https://www.youtube.com/channel/UCwlMLasm-aDMaSQc62F92Zg/"> 
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-</a>
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+            </a>
 <a href="your-twitter-URL">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</a>
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+            </a>
 <img src="https://github.com/testcomputer"data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white'" style="max-width: 100%;"> 
-</a>
+            </a>
 <a href="https://discord.com/channels/1033909070643609662/1033909071520206899">
 <img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" 
-</a>
+            </a>
 
   <!-- {YOU_FOUND.THE.FLAG} -->
 <h1 align="center"> 
  
-
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=testcomputer&count_private=true&theme=tokyonight&showicons=true)]()
-</h1>
+     </h1>
  
 <!-- 
 <details>
@@ -85,31 +88,40 @@ And above all else, leave yourself notes
 </details>
 -->
 
-<h3 align="center"> Languages and Tools I use:</h3>
+<h3 align="center"> Languages and Tools I use:
+    </h3>
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"
-  alt="bootstrap" width="40" height="40"/> </a>
+  alt="bootstrap" width="40" height="40"/> 
+    </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> </a>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> 
+        </a>
   <a href="https://git-scm.com/" target="_blank"> 
- <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank">  <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> </a>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/> 
+        </a>
+  <a href="https://www.w3.org/html/" target="_blank">  <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="html5" width="40" height="40"/> 
+    </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> 
+    </a>
   <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://img.icons8.com/color/64/000000/sql.png" alt="sql" width="40" height="40"/> </a>
+    <img src="https://img.icons8.com/color/64/000000/sql.png" alt="sql" width="40" height="40"/> 
+    </a>
   <a href="https://www.python.org" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"
-  width="40" height="40"/></a>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"
+  width="40" height="40"/>
+    </a>
  <a href="https://cloud.google.com/" target="_blank">
- <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="40" height="40"/></a>
-</p> </h1>
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="40" height="40"/>
+    </a>
+        </p> 
+            </h1>
 
     
   
     
 <h1 align="center"> 
-  
-</h4>
+    </h4>
 
   <!--   <details>
       <summary><strong> Example </strong></summary>
@@ -118,7 +130,7 @@ And above all else, leave yourself notes
  
 -->
 <h2 align="center">  Network Security Projects 
-</h1>
+    </h1>
 This repository contains a series of projects relative to network security (attack and mitigation). 
     I work on the development of different projects related to network security, by studying 
     vulnerabilities and countermeasures in networking systems and communication protocols, I 

@@ -1,8 +1,9 @@
-<!--
-**testcomputer/testcomputer** 
-Keep your code neat
-Maintain simply structure
-And above all else, leave yourself notes
+ <!--
+                                                        **testcomputer/testcomputer** 
+                                                        Keep your code neat
+                                                        Maintain simply structure
+                                                        And above all else, leave yourself notes
+                                                    
 -->
     
 <h1 align="center">
@@ -41,17 +42,20 @@ And above all else, leave yourself notes
 
 
 
- <!-- Understand the code 
-    Practice simplicity
-    Take your time
-    Research & study new framworks and techniques-->
+<!-- 
+                                                Understand the code 
+                                                Practice simplicity
+                                                Take your time
+                                                Research & study new framworks and techniques-->
 
 
 
 
 <!--
 
-- There is an easter egg located somewhere in this file. Happy hunting! 
+
+                                     There is an easter egg located somewhere in this file. Happy hunting! 
+
 
 -->
 
@@ -81,10 +85,12 @@ And above all else, leave yourself notes
      </h1>
  
 <!-- 
-<details>
-<summary>Web development</summary> Web development, also known as website development, refers to the tasks associated with creating, building, and maintaining websties.
-</p>
-</details>
+                                            <details>
+                                            <summary>Web development</summary> Web development, 
+                                            also known as website development, refers to the tasks 
+                                            associated with creating, building, and maintaining websties.
+                                            </p>
+                                            </details>
 -->
 
 <h3 align="center"> Languages and Tools I use:
@@ -122,12 +128,15 @@ And above all else, leave yourself notes
 <h1 align="center"> 
     </h4>
 
-  <!--   <details>
-      <summary><strong> Example </strong></summary>
-    </details>
+  <!--   
+
+                                            <details>
+                                              <summary><strong> Example </strong></summary>
+                                            </details>
 
  
 -->
+
 <h2 align="center">  Network Security Projects 
     </h1>
 This repository contains a series of projects relative to network security (attack and mitigation). 
@@ -181,14 +190,14 @@ Topics
     </h3>
 </div>
  <!-- 
-Reference link to Microsoft Azure  
+                                        Reference link to Microsoft Azure  
 
-<p align="center">
-    <a href="https://www.azure.com" target="_blank"> <img
-        src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" 
-        screenshots/Referrals/azure_referral.png/>
-    </a>
-</p>
+                                        <p align="center">
+                                            <a href="https://www.azure.com" target="_blank"> <img
+                                                src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" 
+                                                screenshots/Referrals/azure_referral.png/>
+                                            </a>
+                                        </p>
 
 -->
 

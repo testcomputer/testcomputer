@@ -34,7 +34,7 @@
 
 - :telescope: Currently working as a network specialist.
 
-- 🧮 Advancing my studies in PHP, Lua, Go & Rust \. Open-source contributor.
+- 🧮 Advancing my studies in PHP, Lua, Go, & Rust \. Open-source contributor.
  
 - :seedling: Exploring technical content writing and virtual network design. Developing a few blogs entries. *Stay tuned!* 
 

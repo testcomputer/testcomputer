@@ -32,7 +32,7 @@
 
 
 
-- :telescope: Working as a network specialist.
+- :telescope: Currently working as a network specialist.
 
 - 🧮 Advancing my studies in PHP, Lua, Go & Rust \. Open-source contributor.
  

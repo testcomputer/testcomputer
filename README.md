@@ -194,22 +194,7 @@ Topics
         </details>
     </h3>
 </div>
- <!-- 
-                                        Reference link to Microsoft Azure  
 
-                                        <p align="center">
-                                            <a href="https://www.azure.com" target="_blank"> <img
-                                                src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" 
+<p align="center"> <a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" 
                                                 screenshots/Referrals/azure_referral.png/>
-                                            </a>
-                                        </p>
 
--->
-
-<!-- Editor's notes: 
-
-Keep all code clean. Like your room, straighten up your code often.
-
--->
-
-    

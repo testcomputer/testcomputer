@@ -189,7 +189,7 @@ Topics
         Committed to improving network uptime and system availability. 5 years of experience working with UNIX systems.
         Extensive understanding of installing, configuring and administering Linux systems. Known for exceptional 
         performance in network diagnostics and development operations. Diligent troubleshooter, with strong communication 
-        skills to interact effectively with employees and various IT environments. SDLC
+        skills to interact effectively with employees and various IT environments. Developing Agile methodology management. 
             </h5>
         </details>
     </h3>

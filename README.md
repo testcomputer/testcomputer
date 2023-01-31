@@ -40,6 +40,7 @@
 
 - :zap: In my free time, I solve problems & read technology/automotive articles. Big fan of the EV revolution! 
 
+- :small_airplane: The world is a book and those who don't travel, only read one page. 
 
 
 <!-- 

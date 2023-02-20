@@ -85,9 +85,10 @@
 <h1 align="center"> 
  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=testcomputer&count_private=true&theme=tokyonight&showicons=true)]()
-    ![](https://komarev.com/ghpvc/?username=tstcomputer&style=flat-square&color=brightgreen)
-  
-      </h1>
+ 
+![](https://komarev.com/ghpvc/?username=tstcomputer&style=flat-square&color=brightgreen)
+ 
+ </h1>
  
 <!-- 
                                             <details>

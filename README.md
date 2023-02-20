@@ -85,7 +85,9 @@
 <h1 align="center"> 
  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=testcomputer&count_private=true&theme=tokyonight&showicons=true)]()
-     </h1>
+    ![](https://komarev.com/ghpvc/?username=tstcomputer&style=flat-square&color=brightgreen)
+  
+      </h1>
  
 <!-- 
                                             <details>
@@ -200,7 +202,3 @@ Topics
 
 <p align="center"> <a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" 
                                                 screenshots/Referrals/azure_referral.png/>
-
- ![](https://komarev.com/ghpvc/?username=tstcomputer&style=flat-square&color=brightgreen)
-  
-    

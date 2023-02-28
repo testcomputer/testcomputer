@@ -207,4 +207,4 @@ Topics
                                                 screenshots/Referrals/azure_referral.png/>
 
  
- <img src="[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2.wp.com%2Fwindowscustomization.com%2Fwp-content%2Fuploads%2F2018%2F09%2Fplexus1.gif%3Ffit%3D750%252C365%26quality%3D80%26strip%3Dall%26ssl%3D1&f=1&nofb=1&ipt=23426fe7dd6a8857712c50840a883ada59db744e343948ff59c770c2d50489a0&ipo=images](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F3840%2F1*etDJsZIWf76sb1P_l6ZW3w.gif&f=1&nofb=1&ipt=d73338778cd41f2af3fbd11979206c7097c33a7cc7e84de2942f2d74fc6b7d11&ipo=images)" width="8000" height="150"/>
+ <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F3840%2F1*etDJsZIWf76sb1P_l6ZW3w.gif&f=1&nofb=1&ipt=d73338778cd41f2af3fbd11979206c7097c33a7cc7e84de2942f2d74fc6b7d11&ipo=images)" width="8000" height="250"/>

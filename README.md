@@ -19,10 +19,12 @@ And above all else, leave yourself notes
 -->
 <div id="header" align="center">
     <img src="https://user-images.githubusercontent.com/104815254/170267211-7f5c43d2-cc8b-4e82-8bf3-068591c66093.gif" width="100"/>
-        </div>
+
+</div>
 
 <div id="badges">
-    </div>
+
+</div>
 
 <h1 align="center"> Greetings! 
     </h1>

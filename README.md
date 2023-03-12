@@ -15,6 +15,10 @@ And above all else, leave yourself notes
 <br>
  </h>
  
+     
+<h1 align="center">
+    <img src="https://camo.githubusercontent.com/d88bdce683bc31abcfc8fd8774880f5a305e4e59/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" />
+ 
  <!--
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="testcomputer" /> 

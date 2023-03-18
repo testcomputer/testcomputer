@@ -50,7 +50,7 @@ And above all else, leave yourself notes
  
 - :seedling: Passioniate for technical content writing & virtual network design; currently working on several blog entries in these areas. *Stay tuned for updates!* 
 
-- :zap: During my leisure time, I enjoy problem-solving and reading articles related to technology and automotive industries. I am particularly interested in the ongoing Electric Vehicle *(EV)* revolution and the advancements in the industry!
+- :zap: During my leisure time, I enjoy problem-solving and reading articles related to technology and automotive industries. Particularly interested in the ongoing Electric Vehicle *(EV)* revolution and the advancements in the industry!
 
 - :small_airplane: In conclusion, I am a strong believer in the quote by Augustine, "The world is a book and those who don't travel, only read one page." I enjoy exploring new places and experiencing new cultures, and I believe that traveling is an essential part of personal growth and development.
 

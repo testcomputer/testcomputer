@@ -48,7 +48,7 @@ And above all else, leave yourself notes
 
 - 🧮 Expanding my knowledge base by pursuing studies in various programming languages such as PHP, Lua, Go, and Rust. Additionally, I contribute to open-source projects in my spare time.
  
-- :seedling: I have a passion for technical content writing and virtual network design, and I am currently working on several blog entries in these areas. *Stay tuned for updates!* 
+- :seedling: Passioniate for technical content writing & virtual network design; currently working on several blog entries in these areas. *Stay tuned for updates!* 
 
 - :zap: During my leisure time, I enjoy problem-solving and reading articles related to technology and automotive industries. I am particularly interested in the ongoing Electric Vehicle *(EV)* revolution and the advancements in the industry!
 

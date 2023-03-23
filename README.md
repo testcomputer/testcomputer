@@ -91,7 +91,6 @@ And above all else, leave yourself notes
 <img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" 
             </a>
 
-  <!-- {YOU_FOUND.THE.FLAG} -->
 <h1 align="center"> 
  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=testcomputer&count_private=true&theme=tokyonight&showicons=true)]()
@@ -122,7 +121,7 @@ And above all else, leave yourself notes
         </a>
       <a href="https://kali.org/" target="_blank"> 
     <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Forig12.deviantart.net%2F402b%2Ff%2F2015%2F318%2F9%2F6%2Fmortal_kombat_logo_2_by_llexandro-d9gpghl.png&f=1&nofb=1&ipt=56bc011d65a99ea52b81097395d92e15f3d3f7fe203b5100ed093be5b2a287ef&ipo=images" alt="git" width="40" height="40"/> 
-        </a>
+        </a> <!-- {YOU_FOUND.THE.FLAG} -->
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/> 
         </a>

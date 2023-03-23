@@ -64,7 +64,7 @@ And above all else, leave yourself notes
 <a href="https://www.youtube.com/channel/UCwlMLasm-aDMaSQc62F92Zg/"> 
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
             </a>
-<a href="https://www.twitter.com/daniejordwiletor">
+<a href="https://www.twitter.com/danijordwiletor">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
             </a>
 <img src="https://github.com/testcomputer"data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white'" style="max-width: 100%;"> 

@@ -26,7 +26,7 @@ And above all else, leave yourself notes
 </h1> 
 -->
 
-- :telescope: Skilled network specialist with understandings of computer networks and their infrastructure. 
+- :telescope: 𝚂𝚔𝚒𝚕𝚕𝚎𝚍 𝚗𝚎𝚝𝚠𝚘𝚛𝚔 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚜𝚝 𝚠𝚒𝚝𝚑 𝚞𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍𝚒𝚗𝚐𝚜 𝚘𝚏 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚗𝚎𝚝𝚠𝚘𝚛𝚔𝚜 𝚊𝚗𝚍 𝚝𝚑𝚎𝚒𝚛 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎. 
 
 - 🧮 Expanding my knowledge base by pursuing studies in various programming languages such as PHP, Lua, Go, and Rust. Additionally, I contribute to open-source projects in my spare time.
  

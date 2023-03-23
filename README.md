@@ -28,7 +28,7 @@ And above all else, leave yourself notes
 
 - :telescope: 𝚂𝚔𝚒𝚕𝚕𝚎𝚍 𝚗𝚎𝚝𝚠𝚘𝚛𝚔 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚜𝚝 𝚠𝚒𝚝𝚑 𝚞𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍𝚒𝚗𝚐𝚜 𝚘𝚏 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚗𝚎𝚝𝚠𝚘𝚛𝚔𝚜 𝚊𝚗𝚍 𝚝𝚑𝚎𝚒𝚛 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎. 
 
-- 🧮 Expanding my knowledge base by pursuing studies in various programming languages such as PHP, Lua, Go, and Rust. Additionally, I contribute to open-source projects in my spare time.
+- 🧮 𝙴𝚡𝚙𝚊𝚗𝚍𝚒𝚗𝚐 𝚖𝚢 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚋𝚊𝚜𝚎 𝚋𝚢 𝚙𝚞𝚛𝚜𝚞𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚒𝚎𝚜 𝚒𝚗 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚜𝚞𝚌𝚑 𝚊𝚜 𝙿𝙷𝙿, 𝙻𝚞𝚊, 𝙶𝚘, 𝚊𝚗𝚍 𝚁𝚞𝚜𝚝. 𝙰𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕𝚕𝚢, 𝙸 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚒𝚗 𝚖𝚢 𝚜𝚙𝚊𝚛𝚎 𝚝𝚒𝚖𝚎.
  
 - :seedling: Passioniate for technical content writing & virtual network design; currently working on several blog entries in these areas. *Stay tuned for updates!* 
 

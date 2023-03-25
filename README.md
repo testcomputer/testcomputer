@@ -192,10 +192,10 @@ Topics
     </h3>
 </div>
 
-<table><tr><td><a href="https://www.youtube.com/watch?v=B03V3Tazcec"><img width="140px" src="https://i.ytimg.com/vi/B03V3Tazcec/mqdefault.jpg"></a></td>
+<table><table style="width:200"><tr><td><a href="https://www.youtube.com/watch?v=B03V3Tazcec"><img width="140px" src="https://i.ytimg.com/vi/B03V3Tazcec/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=B03V3Tazcec">Bicep Builders: Azure Sentinel and policy as code from Jesse Loudon and Casey Mullineaux</a><br/>Sep 17, 2021</td></tr></table>
 
-<table><tr><td><a href="https://www.youtube.com/watch?v=AVn5glYBz84"><img width="140px" src="https://i.ytimg.com/vi/AVn5glYBz84/mqdefault.jpg"></a></td>
+<table><table style="width:200"><tr><td><a href="https://www.youtube.com/watch?v=AVn5glYBz84"><img width="140px" src="https://i.ytimg.com/vi/AVn5glYBz84/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AVn5glYBz84">June 2021 Meetup: Azure Policy as Code: Zero to Hero in 60 minutes</a><br/>Jun 23, 2021</td></tr></table>
 
 <table><tr><td><a href="https://www.youtube.com/watch?v=SuH_TBBsvLI"><img width="140px" src="https://i.ytimg.com/vi/SuH_TBBsvLI/mqdefault.jpg"></a></td>

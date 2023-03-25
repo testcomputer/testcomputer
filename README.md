@@ -193,7 +193,7 @@ Topics
 </div>
 
 
-<td><a href=" width="200" https://www.youtube.com/watch?v=SuH_TBBsvLI">Flexing Your Security Governance with Azure Policy As Code</a><br/>Feb 3, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=SuH_TBBsvLI">Flexing Your Security Governance with Azure Policy As Code</a><br/>Feb 3, 2022</td></tr></table>
 
 
 

@@ -193,6 +193,12 @@ Topics
 </div>
 
 
+<td><a href=" width="200" https://www.youtube.com/watch?v=SuH_TBBsvLI">Flexing Your Security Governance with Azure Policy As Code</a><br/>Feb 3, 2022</td></tr></table>
+
+
+
+
+
  
 <p align="center"> <a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" 
                                                 screenshots/Referrals/azure_referral.png/>

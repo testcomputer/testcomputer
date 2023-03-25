@@ -192,13 +192,9 @@ Topics
     </h3>
 </div>
 
+<table><tr><td><a href="https://www.youtube.com/watch?v=SuH_TBBsvLI"><img width="140px" src="https://i.ytimg.com/vi/SuH_TBBsvLI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SuH_TBBsvLI">Flexing Your Security Governance with Azure Policy As Code</a><br/>Feb 3, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-KSLh2I9e1U"><img width="140px" src="https://i.ytimg.com/vi/-KSLh2I9e1U/mqdefault.jpg"></a></td>
-
-
 
  
 <p align="center"> <a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" 
-
-
-                                                screenshots/Referrals/azure_referral.png/>
+ screenshots/Referrals/azure_referral.png/>

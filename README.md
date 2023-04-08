@@ -279,7 +279,39 @@ Topics
     </table>
 
 <!-- YouTube Playlist End -->
-
+  
+    
+ <table>
+    <tr>
+        <td>
+            <a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">
+                <img width="140px" src="https://user-images.githubusercontent.com/104815254/230734507-d07ffaeb-0539-4630-a1cf-53ab10ca6bbe.png">
+            </a>
+        </td>
+<td>
+    <a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">Career Growth Stratagies — April 2023
+    </a>
+    <br/>Apr 3, 2023
+        </td>
+    </tr>
+    </table>
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
  
 <p align="center"> <a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" 
  screenshots/Referrals/azure_referral.png/>

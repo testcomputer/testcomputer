@@ -33,16 +33,15 @@ And above all else, leave yourself notes
 </h1> 
 -->
 
-- :telescope: 𝚗𝚎𝚝𝚠𝚘𝚛𝚔 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚜𝚝 𝚠𝚒𝚝𝚑 𝚞𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍𝚒𝚗𝚐𝚜 𝚘𝚏 𝚗𝚎𝚝𝚠𝚘𝚛𝚔𝚜 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎. 
+- :telescope: 𝚗𝚎𝚝𝚠𝚘𝚛𝚔 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚜𝚝 
 
-- 🧮 𝙴𝚡𝚙𝚊𝚗𝚍𝚒𝚗𝚐 𝚖𝚢 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚋𝚊𝚜𝚎 𝚋𝚢 𝚙𝚞𝚛𝚜𝚞𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚒𝚎𝚜 𝚒𝚗 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚜𝚞𝚌𝚑 𝚊𝚜 𝙿𝙷𝙿, 𝙻𝚞𝚊, 𝙶𝚘, 𝚊𝚗𝚍 𝚁𝚞𝚜𝚝. 𝙰𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕𝚕𝚢, 𝙸 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚒𝚗 𝚖𝚢 𝚜𝚙𝚊𝚛𝚎 𝚝𝚒𝚖𝚎.
+- 🧮 𝚙𝚞𝚛𝚜𝚞𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚒𝚎𝚜 𝚒𝚗 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚜𝚞𝚌𝚑 𝚊𝚜 𝙿𝙷𝙿, 𝙻𝚞𝚊, 𝙶𝚘, 𝚊𝚗𝚍 𝚁𝚞𝚜𝚝. 𝙰𝚍𝚍𝚒𝚝𝚒𝚘𝚗𝚊𝚕𝚕𝚢, 𝙸 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚒𝚗 𝚖𝚢 𝚜𝚙𝚊𝚛𝚎 𝚝𝚒𝚖𝚎.
  
-- :seedling: Passioniate for technical content writing & virtual network design; currently working on several blog entries in these areas. Check out our site <b> [Engineeur.com](https://engineeur.com) </b> *Stay tuned for updates!* 
+- :seedling: technical content writing & virtual network design; currently working on several blog entries in these areas. Check out our site <b> [Engineeur.com](https://engineeur.com) </b> *Stay tuned for updates!* 
 
 - :zap: During my leisure time, I enjoy problem-solving and reading articles related to technology and automotive industries. Particularly interested in the ongoing Electric Vehicle *(EV)* revolution and the advancements in the industry!
 
-- :small_airplane: In conclusion, I am a strong believer in the quote by Augustine, "The world is a book and those who don't travel, only read one page." I enjoy exploring new places and experiencing new cultures, and I believe that traveling is an essential part of personal growth and development.
-
+- :small_airplane: 
 
 <!-- 
                                                 Understand the code 

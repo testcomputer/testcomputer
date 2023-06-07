@@ -39,7 +39,7 @@ And above all else, leave yourself notes
  
 - :seedling: technical content writing & virtual network design; currently working on several blog entries in these areas. Check out our site <b> [Engineeur.com](https://engineeur.com) </b> *Stay tuned for updates!* 
 
-- :zap: During my leisure time, I enjoy problem-solving and reading articles related to technology and automotive industries. Particularly interested in the ongoing Electric Vehicle *(EV)* revolution and the advancements in the industry!
+- :zap: particularly interested in the ongoing Electric Vehicle *(EV)* revolution and the advancements in the industry!
 
 - :small_airplane: 
 

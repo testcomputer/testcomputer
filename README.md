@@ -37,7 +37,7 @@ And above all else, leave yourself notes
 
 - 🧮 𝚙𝚞𝚛𝚜𝚞𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚒𝚎𝚜 𝚒𝚗 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.
  
-- :seedling: technical content writing & virtual network design; currently working on several blog entries in these areas. Check out our site <b> [Engineeur.com](https://engineeur.com) </b> *Stay tuned for updates!* 
+- :seedling: 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚌𝚘𝚗𝚝𝚎𝚗𝚝 𝚠𝚛𝚒𝚝𝚒𝚗𝚐 & 𝚟𝚒𝚛𝚝𝚞𝚊𝚕 𝚗𝚎𝚝𝚠𝚘𝚛𝚔 𝚍𝚎𝚜𝚒𝚐𝚗; 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚜𝚎𝚟𝚎𝚛𝚊𝚕 𝚋𝚕𝚘𝚐 𝚎𝚗𝚝𝚛𝚒𝚎𝚜 𝚒𝚗 𝚝𝚑𝚎𝚜𝚎 𝚊𝚛𝚎𝚊𝚜. 𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚘𝚞𝚛 𝚜𝚒𝚝𝚎 <b> [𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚞𝚛.𝚌𝚘𝚖](https://engineeur.com)</b> *𝚂𝚝𝚊𝚢 𝚝𝚞𝚗𝚎𝚍 𝚏𝚘𝚛 𝚞𝚙𝚍𝚊𝚝𝚎𝚜!* 
 
 - :zap: particularly interested in the ongoing Electric Vehicle *(EV)* revolution and the advancements in the industry!
 

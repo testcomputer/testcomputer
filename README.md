@@ -189,7 +189,7 @@ Topics
             <summary>
                 <strong>Professional Summary</strong>
            </summary>
-        <h5>Analytical Linux system administrator with proven knowledge in various open-source operating systems. 
+        <h5> Analytical Linux system administrator with proven knowledge in various open-source operating systems. 
         Committed to improving network uptime and system availability. 5 years of experience working with UNIX systems.
         Extensive understanding of installing, configuring and administering Linux systems. Known for exceptional 
         performance in network diagnostics and development operations. Diligent troubleshooter, with strong communication 

@@ -102,20 +102,20 @@ And above all else, leave yourself notes
 <h3 align="center"> Languages and Tools I use:
     </h3>
 <p align="center"> 
-   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg"
-  alt="bootstrap" width="40" height="40"/> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"
-  alt="bootstrap" width="40" height="40"/> 
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="bootstrap" width="40" height="40"/> 
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/> 
     </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> 
-        </a>
-      <a href="https://kali.org/" target="_blank"> 
+    </a>
+  <a href="https://kali.org/" target="_blank"> 
     <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Forig12.deviantart.net%2F402b%2Ff%2F2015%2F318%2F9%2F6%2Fmortal_kombat_logo_2_by_llexandro-d9gpghl.png&f=1&nofb=1&ipt=56bc011d65a99ea52b81097395d92e15f3d3f7fe203b5100ed093be5b2a287ef&ipo=images" alt="git" width="40" height="40"/> 
         </a> <!-- {YOU_FOUND.THE.FLAG} -->
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/> 
-        </a>
+    </a>
   <a href="https://www.w3.org/html/" target="_blank">  
     <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="html5" width="40" height="40"/> 
     </a>

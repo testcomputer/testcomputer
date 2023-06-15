@@ -123,7 +123,7 @@ And above all else, leave yourself notes
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.icons8.com/color/64/000000/sql.png" alt="sql" width="40" height="40"/> 
     </a>
-       <a href="https://azure.com" target="_blank">
+  <a href="https://azure.com" target="_blank">
     <img src="https://github.com/testcomputer/testcomputer/assets/104815254/eb59d440-8d04-4f3a-972c-ad56a10d0d08" width="40" height="40"/>
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"

@@ -116,9 +116,11 @@ And above all else, leave yourself notes
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/> 
         </a>
-  <a href="https://www.w3.org/html/" target="_blank">  <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="html5" width="40" height="40"/> 
+  <a href="https://www.w3.org/html/" target="_blank">  
+    <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="html5" width="40" height="40"/> 
     </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> 
     </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.icons8.com/color/64/000000/sql.png" alt="sql" width="40" height="40"/> 

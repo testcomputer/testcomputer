@@ -196,11 +196,7 @@ Topics
             <summary>
                 <strong>Professional Summary</strong>
            </summary>
-        <h5> Analytical Linux system administrator with knowledge in various open-source operating systems. 
-        Committed to improving network uptime & system availability. 7 years of experience working with UNIX systems.
-        Understanding of installing, configuring & administering Linux systems. Known for exceptional 
-        performance in network diagnostics & development operations. Diligent troubleshooter, with strong communication 
-        skills to interact effectively with employees and various IT environments. Currently developing agile management methodology.</h5>
+        <h5> Experienced Linux system administrator with a strong analytical mindset and expertise in various open-source operating systems. Committed to enhancing network uptime and system availability through effective installation, configuration, and administration of Linux systems. With 7 years of experience working with UNIX systems, I bring a deep understanding of network diagnostics and development operations. A diligent troubleshooter with excellent communication skills, adept at collaborating with employees and navigating diverse IT environments. Currently focused on developing an agile management methodology.</h5>
         </details>
     </h3>
 </div>

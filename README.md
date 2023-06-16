@@ -163,7 +163,6 @@ This repository contains a series of projects relative to network security (atta
 Every projects folder contains the following files:
 
 Description document which defines the guidelines/deliverables and in some cases input and example of output files.
-The project source code
 Topics
     
     Project 1: DNS packet capture and fields parsing (malicious detection)

@@ -288,7 +288,7 @@ Topics
             </a>
         </td>
 <td>
-    <a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">Career Growth Stratagies — April 2023
+    <a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">Career Growth Strategies — April 2023
     </a>
     <br/>Apr 3, 2023
         </td>

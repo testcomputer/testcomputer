@@ -118,8 +118,8 @@ And above all else, leave yourself notes
     <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="html5" width="40" height="40"/> 
     </a>
   <a href="https://microsoft.com/" target="_blank">    
-      <img src="https://github.com/testcomputer/testcomputer/assets/104815254/307bf12d-ab8a-400c-ba61-ae92f4753747" alt="AD" width="40" height="40"/>
-  </a>
+    <img src="https://vectorified.com/images/active-directory-icon-26.png" alt="AD" width="40" height="40"/>
+    </a>
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> 
     </a>

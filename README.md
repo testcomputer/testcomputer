@@ -63,21 +63,22 @@ And above all else, leave yourself notes
 <h1 align="center">
 
 <a href="https://www.linkedin.com/in/daniel-j-w-torres/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
-            </a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+    </a>
 <!-- <a href="https://www.youtube.com/channel/UCwlMLasm-aDMaSQc62F92Zg/"> -->
-    <a href="https://www.youtube.com/@danijordwiletorr"> 
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-            </a>
 <a href="https://www.twitter.com/danijordwiletor">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-            </a>
- <a href="github.com/testcomputer"> 
- <img src="https://camo.githubusercontent.com/b994fc2dc47e1b1c3bb4932c4b37df5930ec6cae8187a2f363ff63a906b23de4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d776869746527" ata-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white'" style="max-width: 100%;"> <!-- temp fix, open a issue. resolve this -->
-            </a>
+        </a>
+         </a>
 <a href="https://discord.com/channels/1033909070643609662/1033909071520206899">
 <img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" 
-            </a>
+        </a>
+    <a href="https://www.youtube.com/@danijordwiletorr"> 
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+ <a href="github.com/testcomputer"> 
+ <img src="https://camo.githubusercontent.com/b994fc2dc47e1b1c3bb4932c4b37df5930ec6cae8187a2f363ff63a906b23de4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d776869746527" ata-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white'" style="max-width: 100%;"> <!-- temp fix, open a issue. resolve this -->
+       
      
 
 <h1 align="center"> 

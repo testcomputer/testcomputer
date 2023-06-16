@@ -160,7 +160,7 @@ This repository contains a series of projects relative to network security (atta
     
     
 ### All the codes developed were written in Lua, C++ and/or Python on a Linux OS.
-Every projects folder contains the following files:
+Every projects folder contains the following files: src, docs, tests, config, assests, examples, dist, docs/root
 
 <!-- Description document which defines the guidelines/deliverables and in some cases input and example of output files.-->
 Topics

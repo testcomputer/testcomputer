@@ -136,7 +136,6 @@ And above all else, leave yourself notes
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> 
     </a>
-
         </p> 
             </h1>
 

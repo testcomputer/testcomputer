@@ -162,7 +162,7 @@ This repository contains a series of projects relative to network security (atta
 ### All the codes developed were written in Lua, C++ and/or Python on a Linux OS.
 Every projects folder contains the following files:
 
-Description document which defines the guidelines/deliverables and in some cases input and example of output files.
+<!-- Description document which defines the guidelines/deliverables and in some cases input and example of output files.-->
 Topics
     
     Project 1: DNS packet capture and fields parsing (malicious detection)

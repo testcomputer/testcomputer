@@ -58,6 +58,8 @@ And above all else, leave yourself notes
 
 -->
 
+
+<!-- color coordinate images -->
 - :mailbox: 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: <b>[LinkedIn](https://www.linkedin.com/in/daniel-j-w-torres)</b>
 
 <h1 align="center">

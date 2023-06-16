@@ -102,11 +102,20 @@ And above all else, leave yourself notes
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="bootstrap" width="40" height="40"/> 
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/> 
-    </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> 
+    </a>
+        <a href="https://azure.com/" target="_blank">
+    <img src="https://github.com/testcomputer/testcomputer/assets/104815254/eb59d440-8d04-4f3a-972c-ad56a10d0d08" alt="azure" width="40" height="40"/>
+    </a>
+        <a href="https://microsoft.com/" target="_blank">    
+    <img src="https://vectorified.com/images/active-directory-icon-26.png" alt="AD" width="40" height="40"/>
+    </a>
+        <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/color/64/000000/sql.png" alt="sql" width="40" height="40"/> 
+    </a>
+       <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/> 
     </a>
   <a href="https://kali.org/" target="_blank"> 
     <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Forig12.deviantart.net%2F402b%2Ff%2F2015%2F318%2F9%2F6%2Fmortal_kombat_logo_2_by_llexandro-d9gpghl.png&f=1&nofb=1&ipt=56bc011d65a99ea52b81097395d92e15f3d3f7fe203b5100ed093be5b2a287ef&ipo=images" alt="git" width="40" height="40"/> 
@@ -117,17 +126,8 @@ And above all else, leave yourself notes
   <a href="https://www.w3.org/html/" target="_blank">  
     <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="html5" width="40" height="40"/> 
     </a>
-  <a href="https://microsoft.com/" target="_blank">    
-    <img src="https://vectorified.com/images/active-directory-icon-26.png" alt="AD" width="40" height="40"/>
-    </a>
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> 
-    </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/color/64/000000/sql.png" alt="sql" width="40" height="40"/> 
-    </a>
-  <a href="https://azure.com/" target="_blank">
-    <img src="https://github.com/testcomputer/testcomputer/assets/104815254/eb59d440-8d04-4f3a-972c-ad56a10d0d08" alt="azure" width="40" height="40"/>
     </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"

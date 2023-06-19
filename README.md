@@ -15,10 +15,7 @@ And above all else, leave yourself notes
     
 <!-- <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="750" height="1"> -->
 
-
-
  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="testcomputer" /> </p> -->
-
 
 <div id="badges">
 </div>
@@ -45,7 +42,10 @@ And above all else, leave yourself notes
                                                 Understand the code 
                                                 Practice simplicity
                                                 Take your time
-                                                Research & study new framworks and techniques-->
+                                                Research & study new framworks and techniques
+                                                
+
+-->
 
 
 

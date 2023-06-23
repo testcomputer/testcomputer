@@ -95,7 +95,7 @@ And above all else, leave yourself notes
                                             <details>
                                             <summary>Web development</summary> Web development, 
                                             also known as website development, refers to the tasks 
-                                            associated with creating, building, and maintaining websties.
+                                            associated with creating, building, and maintaining websites.
                                             </p>
                                             </details>
 -->

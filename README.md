@@ -114,6 +114,8 @@ And above all else, leave yourself notes
         <a href="https://microsoft.com/" target="_blank">    
     <img src="https://vectorified.com/images/active-directory-icon-26.png" alt="AD" width="40" height="40"/>
     </a>
+<a href="nmap.org/" target="_blank">
+<img src="https://github.com/testcomputer/testcomputer/assets/104815254/9ce69a34-5e15-4405-8e37-5d0df5032bbd" alt="nmap" width="40" height="40"/>
         <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.icons8.com/color/64/000000/sql.png" alt="sql" width="40" height="40"/> 
     </a>

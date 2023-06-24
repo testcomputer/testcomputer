@@ -144,8 +144,8 @@ And above all else, leave yourself notes
     </a>
         </p> 
             </h1>
-
-       
+      <a href="https://www.gnu.org/software/bash/">
+      <img src="https://icon-library.com/images/bash-icon/bash-icon-23.jpg" alt="bash" width="40" height="40"/>
   
     
 <h1 align="center"> 

@@ -4,6 +4,26 @@ Keep your code neat
 Maintain simply structure
 And above all else, leave yourself notes
 -->
+
+<table>
+    <table style="width:200">
+        <tr>
+            <td>
+                Current Projects
+                    <img width="140px" ">
+                </a>
+            </td>
+<td>
+    <a hrefhackthebox.com">Mastering Metasploit
+    </a>
+    <br/>June 17, 2023
+            </td>
+        </tr>
+    </table>
+
+
+
+
     
 <!--  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@testcomputer/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@testcomputer/0" alt="Recent Article 0">
     --> 

@@ -14,9 +14,9 @@ And above all else, leave yourself notes
                 </a>
             </td>
 <td>
-    <a hrefhackthebox.com">Metasploit Exploits
+    <a href="hackthebox.com"> Metasploit Exploits | Malware Analysis
     </a>
-    <br/>June 17, 2023
+    <br/---
             </td>
         </tr>
     </table>

@@ -14,7 +14,7 @@ And above all else, leave yourself notes
                 </a>
             </td>
 <td>
-    <a href="https://hackthebox.com"> Metasploit Exploits | Malware Analysis
+    <a href="https://hackthebox.com"> | Metasploit Exploits | Malware Analysis | Threat Hunting | Burp Suite | Network Security |
     </a>
     <br/---
             </td>

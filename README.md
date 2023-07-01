@@ -17,7 +17,7 @@ And above all else, leave yourself notes
     <a href="https://hackthebox.com"> Metasploit | Malware Analysis | Threat Hunting | Burp Suite | Nmap
     </a>
     <br/---
-    <td> Check </td>
+    <td> </td>
             </td>
         </tr>
     </table>

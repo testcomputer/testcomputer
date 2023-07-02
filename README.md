@@ -201,14 +201,15 @@ Every projects folder contains the following files: src, docs, tests, config, as
             </td>
         </tr>
     </table>
-
+</div>
 </table>
 
+</h4>
 
-
-<!-- Description document which defines the guidelines/deliverables and in some cases input and example of output files. 
-Topicsv -->
-   <!-- 
+<!-- Description document which defines the guidelines/deliverables and in some cases input and example of output files. -->
+<div style="text-align: left;">
+    Topics
+   
     Project 1: DNS packet capture and fields parsing (malicious detection)
 
     Project 2: Dynamic ARP Inspection Module
@@ -220,7 +221,8 @@ Topicsv -->
     Project 5: Traffic fingerprinting of TLS flows (Markov chains)
 
     Project 6: IPS for SYN flood mitigations (Statical/Behavioral/Cookies protections)
--->
+
+</div>
 <!-- 
    
 <h4>

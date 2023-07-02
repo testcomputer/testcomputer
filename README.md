@@ -6,7 +6,7 @@ And above all else, leave yourself notes
 -->
 <h4 align="center">
 <div style="display: flex; justify-content: center;">
-    <table style="width: 750;">
+    <table style="width: 750px;">
     <tr>
         <td>
             𝙷𝚊𝚌𝚔𝚃𝚑𝚎𝙱𝚘𝚡
@@ -32,8 +32,7 @@ And above all else, leave yourself notes
         </td>
     </tr>
 </table>
-
-<h/>
+</div>h>
 
 
 

@@ -7,7 +7,7 @@ And above all else, leave yourself notes
 
 <table style="width:200px; margin: 0 auto; text-align: center;">
     <tr>
-        <td style="text-align: center;">
+        <td>
             𝙷𝚊𝚌𝚔𝚃𝚑𝚎𝙱𝚘𝚡
             <br>
             <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" width="140px">

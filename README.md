@@ -6,7 +6,7 @@ And above all else, leave yourself notes
 -->
 <h4 align="center">
 <div style="display: flex; justify-content: center;">
-    <table style="width:200px;">
+    <table style="width: 750;">
     <tr>
         <td>
             𝙷𝚊𝚌𝚔𝚃𝚑𝚎𝙱𝚘𝚡

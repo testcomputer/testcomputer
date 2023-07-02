@@ -171,7 +171,7 @@ This repository contains a series of projects relative to network security (atta
     
     
 ### All the codes developed were written in Lua, C++ and/or Python on a Linux OS.
-Every projects folder contains the following files: src, docs, tests, config, assests, examples, dist, root
+Every projects folder contains the following files: enum, docs, tests, config, creds, examples, dist, exploit, root
 <h4 align="center">
 <div style="display: flex; justify-content: center;">
     <table style="width: 750px;">

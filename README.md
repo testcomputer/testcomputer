@@ -15,6 +15,8 @@ And above all else, leave yourself notes
 <h1 align="center"> 𝙶𝚛𝚎𝚎𝚝𝚒𝚗𝚐𝚜!
 
 <h4 align="center">
+       <div id="header" align="center"> <img src="https://user-images.githubusercontent.com/104815254/170267211-7f5c43d2-cc8b-4e82-8bf3-068591c66093.gif" width="100"/> </div>
+ 
 <div style="display: flex; justify-content: center;">
     <table style="width: 750px;">
         <tr>
@@ -56,8 +58,7 @@ And above all else, leave yourself notes
  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="testcomputer" /> </p> -->
 
 
-   <div id="header" align="center"> <img src="https://user-images.githubusercontent.com/104815254/170267211-7f5c43d2-cc8b-4e82-8bf3-068591c66093.gif" width="100"/> </div>
- 
+
  <!-- 
 <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"/>
 </h1> 

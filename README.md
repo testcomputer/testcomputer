@@ -231,18 +231,15 @@ Every projects folder contains the following files: src, docs, tests, config, as
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact" alt="testcomputer's mostly used Languages"/>
     </details>
 </h4>
-
 -->
-<h3 align="center"><div>
-    <h3>
+<h3 align="center">
+    <div>
         <details>
             <summary>
                 <strong>Professional Summary</strong>
            </summary>
         <h5> Experienced Linux system administrator with a strong analytical mindset and expertise in various open-source operating systems. Committed to enhancing network uptime and system availability through effective installation, configuration, and administration of Linux systems. With 7 years of experience working with computer systems, I bring a deep understanding of network diagnostics and development operations. A diligent troubleshooter with excellent communication skills, adept at collaborating with employees and navigating diverse IT environments. Currently focused on developing an agile management methodology.</h5>
         </details>
-    </h3>
-</div>
 
 <!-- YouTube Playlist Begin -->
 

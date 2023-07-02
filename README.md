@@ -5,22 +5,33 @@ Maintain simply structure
 And above all else, leave yourself notes
 -->
 
-<table>
-    <table style="width:200">
-        <tr>
-            <td>
-                Current Projects
-                    <img width="140px" ">
-                </a>
-            </td>
-<td>
-    <a href="https://hackthebox.com"> Metasploit | Malware Analysis | Threat Hunting | Burp Suite | Nmap
-    </a>
-    <br/---
-    <td> </td>
-            </td>
-        </tr>
-    </table>
+<table style="width:200px">
+    <tr>
+        <td>
+            Current Projects
+            <br>
+            <img src="your_image_url" width="140px">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://hackthebox.com">Metasploit | Malware Analysis | Threat Hunting | Burp Suite | Nmap</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Another Box
+            <br>
+            <img src="another_image_url" width="140px">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://tryhackme.com">TryHackMe | Linux | Network Exploitation | Privledge Escalation | Windows Exploitation </a>
+        </td>
+    </tr>
+</table>
+
 
 
 

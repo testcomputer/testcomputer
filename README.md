@@ -8,9 +8,9 @@ And above all else, leave yourself notes
 <table style="width:200px">
     <tr>
         <td>
-            Current Projects
+            𝙷𝚊𝚌𝚔𝚃𝚑𝚎𝙱𝚘𝚡
             <br>
-            <img src="your_image_url" width="140px">
+            <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" width="140px">
         </td>
     </tr>
     <tr>
@@ -20,14 +20,14 @@ And above all else, leave yourself notes
     </tr>
     <tr>
         <td>
-            Another Box
+            𝚃𝚛𝚢𝙷𝚊𝚌𝚔𝙼𝚎
             <br>
-            <img src="another_image_url" width="140px">
+            <img src="https://assets.tryhackme.com/img/favicon.png" width="140px">
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://tryhackme.com">TryHackMe | Linux | Network Exploitation | Privledge Escalation | Windows Exploitation </a>
+            <a href="https://tryhackme.com"> Linux | Network Exploitation | Privledge Escalation | Windows Exploitation </a>
         </td>
     </tr>
 </table>

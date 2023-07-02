@@ -11,6 +11,10 @@ And above all else, leave yourself notes
  <br>
 </h>  
 
+<div id="badges">
+</div>
+<h1 align="center"> 𝙶𝚛𝚎𝚎𝚝𝚒𝚗𝚐𝚜!
+
 <h4 align="center">
 <div style="display: flex; justify-content: center;">
     <table style="width: 750px;">
@@ -52,9 +56,7 @@ And above all else, leave yourself notes
 
  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="testcomputer" /> </p> -->
 
-<div id="badges">
-</div>
-<h1 align="center"> 𝙶𝚛𝚎𝚎𝚝𝚒𝚗𝚐𝚜!
+
     </h1>
    <div id="header" align="center"> <img src="https://user-images.githubusercontent.com/104815254/170267211-7f5c43d2-cc8b-4e82-8bf3-068591c66093.gif" width="100"/> </div>
  

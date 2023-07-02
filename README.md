@@ -17,36 +17,6 @@ And above all else, leave yourself notes
 <h4 align="center">
        <div id="header" align="center"> <img src="https://user-images.githubusercontent.com/104815254/170267211-7f5c43d2-cc8b-4e82-8bf3-068591c66093.gif" width="100"/> </div>
  
-<div style="display: flex; justify-content: center;">
-    <table style="width: 750px;">
-        <tr>
-           <b> Ｃｕｒｒｅｎｔ Ｐｒｏｊｅｃｔｓ：</b>
-            <td>
-                𝙷𝚊𝚌𝚔𝚃𝚑𝚎𝙱𝚘𝚡
-                <br>
-                <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" height="140px" width="140px">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://hackthebox.com">𝙼𝚎𝚝𝚊𝚜𝚙𝚕𝚘𝚒𝚝 | 𝙼𝚊𝚕𝚠𝚊𝚛𝚎 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 | 𝚃𝚑𝚛𝚎𝚊𝚝 𝙷𝚞𝚗𝚝𝚒𝚗𝚐 | 𝙱𝚞𝚛𝚙 𝚂𝚞𝚒𝚝𝚎 | 𝙽𝚖𝚊𝚙</a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                𝚃𝚛𝚢𝙷𝚊𝚌𝚔𝙼𝚎
-                <br>
-                <img src="https://assets.tryhackme.com/img/favicon.png" height="140px" width="140px">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://tryhackme.com"> 𝙻𝚒𝚗𝚞𝚡 | 𝙽𝚎𝚝𝚠𝚘𝚛𝚔 𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗 | 𝙿𝚛𝚒𝚟𝚕𝚎𝚍𝚐𝚎 𝙴𝚜𝚌𝚊𝚕𝚊𝚝𝚒𝚘𝚗 | 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗 </a>
-            </td>
-        </tr>
-    </table>
-
-</table>
 <!--  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@testcomputer/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@testcomputer/0" alt="Recent Article 0"> --> 
 
 
@@ -202,6 +172,39 @@ This repository contains a series of projects relative to network security (atta
     
 ### All the codes developed were written in Lua, C++ and/or Python on a Linux OS.
 Every projects folder contains the following files: src, docs, tests, config, assests, examples, dist, root
+<h4 align="center">
+<div style="display: flex; justify-content: center;">
+    <table style="width: 750px;">
+        <tr>
+           <b> Ｃｕｒｒｅｎｔ Ｐｒｏｊｅｃｔｓ：</b>
+            <td>
+                𝙷𝚊𝚌𝚔𝚃𝚑𝚎𝙱𝚘𝚡
+                <br>
+                <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" height="140px" width="140px">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://hackthebox.com">𝙼𝚎𝚝𝚊𝚜𝚙𝚕𝚘𝚒𝚝 | 𝙼𝚊𝚕𝚠𝚊𝚛𝚎 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 | 𝚃𝚑𝚛𝚎𝚊𝚝 𝙷𝚞𝚗𝚝𝚒𝚗𝚐 | 𝙱𝚞𝚛𝚙 𝚂𝚞𝚒𝚝𝚎 | 𝙽𝚖𝚊𝚙</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                𝚃𝚛𝚢𝙷𝚊𝚌𝚔𝙼𝚎
+                <br>
+                <img src="https://assets.tryhackme.com/img/favicon.png" height="140px" width="140px">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://tryhackme.com"> 𝙻𝚒𝚗𝚞𝚡 | 𝙽𝚎𝚝𝚠𝚘𝚛𝚔 𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗 | 𝙿𝚛𝚒𝚟𝚕𝚎𝚍𝚐𝚎 𝙴𝚜𝚌𝚊𝚕𝚊𝚝𝚒𝚘𝚗 | 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗 </a>
+            </td>
+        </tr>
+    </table>
+
+</table>
+
+
 
 <!-- Description document which defines the guidelines/deliverables and in some cases input and example of output files.-->
 Topics

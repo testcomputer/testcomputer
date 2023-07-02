@@ -210,17 +210,17 @@ Every projects folder contains the following files: src, docs, tests, config, as
 <div style="text-align: left;">
     Topics
    
-    Project 1: DNS packet capture and fields parsing (malicious detection)
+    Project X: DNS packet capture and fields parsing (malicious detection)
 
-    Project 2: Dynamic ARP Inspection Module
+    Project J: Dynamic ARP Inspection Module
 
-    Project 3: ARP-request reply attack defence (WEP)
+    Project U: ARP-request reply attack defence (WEP)
 
-    Project 4: DDoS mitigation 
+    Project R: DDoS mitigation 
 
-    Project 5: Traffic fingerprinting of TLS flows (Markov chains)
+    Project W: Traffic fingerprinting of TLS flows (Markov chains)
 
-    Project 6: IPS for SYN flood mitigations (Statical/Behavioral/Cookies protections)
+    Project Z: IPS for SYN flood mitigations (Statical/Behavioral/Cookies protections)
 
 </div>
 <!-- 

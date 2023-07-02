@@ -10,7 +10,7 @@ And above all else, leave yourself notes
         <td>
             𝙷𝚊𝚌𝚔𝚃𝚑𝚎𝙱𝚘𝚡
             <br>
-            <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" width="140px">
+            <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" height="140px" width="140px">
         </td>
     </tr>
     <tr>
@@ -22,7 +22,7 @@ And above all else, leave yourself notes
         <td>
             𝚃𝚛𝚢𝙷𝚊𝚌𝚔𝙼𝚎
             <br>
-            <img src="https://assets.tryhackme.com/img/favicon.png" width="140px">
+            <img src="https://assets.tryhackme.com/img/favicon.png" height="140px" width="140px">
         </td>
     </tr>
     <tr>

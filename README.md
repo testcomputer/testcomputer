@@ -8,7 +8,7 @@ And above all else, leave yourself notes
 <div style="display: flex; justify-content: center;">
     <table style="width: 750px;">
         <tr>
-           ℂ𝕦𝕣𝕣𝕖𝕟𝕥 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤:
+           <b> Ｃｕｒｒｅｎｔ Ｐｒｏｊｅｃｔｓ：</b>
             <td>
                 𝙷𝚊𝚌𝚔𝚃𝚑𝚎𝙱𝚘𝚡
                 <br>

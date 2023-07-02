@@ -45,11 +45,8 @@ And above all else, leave yourself notes
             </td>
         </tr>
     </table>
-</div>
-</h4>
 
 </table>
-</div> 
 <!--  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@testcomputer/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@testcomputer/0" alt="Recent Article 0"> --> 
 
 

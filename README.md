@@ -16,7 +16,7 @@ And above all else, leave yourself notes
     </tr>
     <tr>
         <td>
-            <a href="https://hackthebox.com">Metasploit | Malware Analysis | Threat Hunting | Burp Suite | Nmap</a>
+            <a href="https://hackthebox.com">𝙼𝚎𝚝𝚊𝚜𝚙𝚕𝚘𝚒𝚝 | 𝙼𝚊𝚕𝚠𝚊𝚛𝚎 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 | 𝚃𝚑𝚛𝚎𝚊𝚝 𝙷𝚞𝚗𝚝𝚒𝚗𝚐 | 𝙱𝚞𝚛𝚙 𝚂𝚞𝚒𝚝𝚎 | 𝙽𝚖𝚊𝚙</a>
         </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@ And above all else, leave yourself notes
     </tr>
     <tr>
         <td>
-            <a href="https://tryhackme.com"> Linux | Network Exploitation | Privledge Escalation | Windows Exploitation </a>
+            <a href="https://tryhackme.com"> 𝙻𝚒𝚗𝚞𝚡 | 𝙽𝚎𝚝𝚠𝚘𝚛𝚔 𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗 | 𝙿𝚛𝚒𝚟𝚕𝚎𝚍𝚐𝚎 𝙴𝚜𝚌𝚊𝚕𝚊𝚝𝚒𝚘𝚗 | 𝚆𝚒𝚗𝚍𝚘𝚠𝚜 𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗 </a>
         </td>
     </tr>
 </table>

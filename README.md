@@ -114,8 +114,8 @@ And above all else, leave yourself notes
         <a href="https://azure.com/" target="_blank">
     <img src="https://github.com/testcomputer/testcomputer/assets/104815254/eb59d440-8d04-4f3a-972c-ad56a10d0d08" alt="azure" width="40" height="40"/>
     </a>
-      <a href="metasploit.com/" target="_blank">
-        <img src="https://github.com/testcomputer/testcomputer/assets/104815254/379a8d58-9a8e-446f-af5f-8c430d901bef" alt="Metasploit" width="40" height"/>
+      <a href="https://metasploit.com/" target="_blank">
+          <img src="https://assets.tryhackme.com/img/modules/metasploit.png" alt="Metasploit" width="40" height"/>
       </a>
         <a href="https://microsoft.com/" target="_blank">    
     <img src="https://vectorified.com/images/active-directory-icon-26.png" alt="AD" width="40" height="40"/>

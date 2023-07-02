@@ -4,8 +4,8 @@ Keep your code neat
 Maintain simply structure
 And above all else, leave yourself notes
 -->
-
-<table style="width:200px; margin: 0 auto; text-align: center;">
+<div style="display: flex; justify-content: center;">
+    <table style="width:200px;">
     <tr>
         <td>
             𝙷𝚊𝚌𝚔𝚃𝚑𝚎𝙱𝚘𝚡

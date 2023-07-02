@@ -106,13 +106,13 @@ And above all else, leave yourself notes
 <h3 align="center"> Languages and Tools I use:
     </h3>
 <p align="center"> 
+            <a href="https://azure.com/" target="_blank">
+    <img src="https://clipground.com/images/microsoft-azure-clipart-logo-4.png" alt="azure" width="40" height="40"/>
+    </a>
   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="bootstrap" width="40" height="40"/> 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> 
-    </a>
-        <a href="https://azure.com/" target="_blank">
-    <img src="https://github.com/testcomputer/testcomputer/assets/104815254/eb59d440-8d04-4f3a-972c-ad56a10d0d08" alt="azure" width="40" height="40"/>
     </a>
       <a href="https://metasploit.com/" target="_blank">
           <img src="https://assets.tryhackme.com/img/modules/metasploit.png" alt="Metasploit" width="40" height"/>

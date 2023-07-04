@@ -212,18 +212,14 @@ Every projects folder contains the following files: enum, docs, tests, config, c
 <!-- Description document which defines the guidelines/deliverables and in some cases input and example of output files. -->
 <div style="text-align: left;">
     Topics
-   
-    Project X: DNS packet capture and fields parsing (malicious detection)
 
+    Project X: DNS Packet Capture and Fields Parsing (Malicious Detection)
     Project J: Dynamic ARP Inspection Module
-
-    Project U: ARP-request reply attack defence (WEP)
-
-    Project R: DDoS mitigation 
-
-    Project W: Traffic fingerprinting of TLS flows (Markov chains)
-
-    Project Z: IPS for SYN flood mitigations (Statical/Behavioral/Cookies protections)
+    Project U: ARP-Request Reply Attack Defense (WEP)
+    Project R: DDoS Mitigation
+    Project W: Traffic Fingerprinting of TLS Flows (Markov Chains)
+    Project Z: IPS for SYN Flood Mitigations (Statistical/Behavioral/Cookies Protections)
+    Project X: DNS packet capture and fields parsing (malicious detection)
 
 </div>
 <!-- 

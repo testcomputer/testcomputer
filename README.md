@@ -200,7 +200,7 @@ Every projects folder contains the following files: enum, docs, tests, config, c
         </tr>
         <tr>
             <td>
-                <a href="https://tryhackme.com"> 𝙻𝚒𝚗𝚞𝚡 | 𝙽𝚎𝚝𝚠𝚘𝚛𝚔 𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗 | 𝙿𝚛𝚒𝚟𝚕𝚎𝚍𝚐𝚎 𝙴𝚜𝚌𝚊𝚕𝚊𝚝𝚒𝚘𝚗 | PowerShell </a>
+                <a href="https://tryhackme.com"> 𝙻𝚒𝚗𝚞𝚡 | 𝙽𝚎𝚝𝚠𝚘𝚛𝚔 𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗 | 𝙿𝚛𝚒𝚟𝚕𝚎𝚍𝚐𝚎 𝙴𝚜𝚌𝚊𝚕𝚊𝚝𝚒𝚘𝚗 | PowerShell | Cryptography </a>
             </td>
         </tr>
     </table>

@@ -219,7 +219,6 @@ Every projects folder contains the following files: enum, docs, tests, config, c
     Project R: DDoS Mitigation
     Project W: Traffic Fingerprinting of TLS Flows (Markov Chains)
     Project Z: IPS for SYN Flood Mitigations (Statistical/Behavioral/Cookies Protections)
-    Project X: DNS packet capture and fields parsing (malicious detection)
 
 </div>
 <!-- 

@@ -120,7 +120,7 @@ And above all else, leave yourself notes
         <a href="https://microsoft.com/" target="_blank">    
     <img src="https://vectorified.com/images/active-directory-icon-26.png" alt="AD" width="40" height="40"/>
     </a>
-<a href="http://nmap.org/" target="_blank">
+        <a href="http://nmap.org/" target="_blank">
   <img src="https://screenshots.dgtcdn.net/images/t_app-logo-l,f_auto,dpr_auto/p/c828c686-96d4-11e6-bce4-00163ec9f5fa/2413414525/nmap-logo" alt="nmap" width="40" height="40" />
 </a>
         <a href="https://www.mysql.com/" target="_blank">

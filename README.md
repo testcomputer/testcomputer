@@ -184,7 +184,7 @@ Every projects folder contains the following files: enum, docs, tests, config, c
                 𝙷𝚊𝚌𝚔𝚃𝚑𝚎𝙱𝚘𝚡
                 <br>
                 <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" height="140px" width="140px">
-                   <a href="https://HackTheBox.com">
+                <!-- < href="https://HackTheBox.com" </a> -->
             </td>
         </tr>
         <tr>
@@ -196,8 +196,7 @@ Every projects folder contains the following files: enum, docs, tests, config, c
             <td>
                 𝚃𝚛𝚢𝙷𝚊𝚌𝚔𝙼𝚎
                 <br>
-                <img src="https://assets.tryhackme.com/img/favicon.png" height="140px" width="140px">
-                   <a href="https:TryHackMe.com/">
+                <img src="https://assets.tryhackme.com/img/favicon.png" height="140px" width="140px"><a href="https:TryHackMe.com/">
             </td>
         </tr>
         <tr>

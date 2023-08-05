@@ -237,7 +237,7 @@ Every projects folder contains the following files: enum, docs, tests, config, c
             <summary>
                 <strong>Professional Summary</strong>
            </summary>
-        <h5> Experienced Linux system administrator with a strong analytical mindset and expertise in various open-source operating systems. Committed to enhancing network uptime and system availability through effective installation, configuration, and administration of Linux systems. With 7 years of experience working with computer systems, I bring a deep understanding of network diagnostics and development operations. A diligent troubleshooter with excellent communication skills, adept at collaborating with employees and navigating diverse IT environments. Currently focused on developing an agile management methodology.</h5>
+        <h5> Experienced Linux system administrator with a strong analytical mindset and expertise in various open-source operating systems. Committed to enhancing network uptime and system availability through effective installation, configuration, and administration of Linux systems. With 7 years of experience working with computer systems, I bring a deep understanding of network diagnostics and development operations. A diligent troubleshooter with excellent communication skills, adept at collaborating with employees and navigating diverse IT environments. Currently focused on developing agile & six sigma project management methodologies.</h5>
         </details>
 
 <!-- YouTube Playlist Begin -->

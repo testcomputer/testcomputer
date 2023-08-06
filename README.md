@@ -94,8 +94,7 @@ And above all else, leave yourself notes
 <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/></a>
 <a href="https://metasploit.com/" target="_blank">
-<img src="https://assets.tryhackme.com/img/modules/metasploit.png" alt="Metasploit" width="40" height"/>
-</a>
+<img src="https://assets.tryhackme.com/img/modules/metasploit.png" alt="Metasploit" width="40" height"/></a>
 <a href="https://microsoft.com/" target="_blank">    
 <img src="https://vectorified.com/images/active-directory-icon-26.png" alt="AD" width="40" height="40"/></a>
 <a href="http://nmap.org/" target="_blank">
@@ -106,25 +105,19 @@ And above all else, leave yourself notes
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/</a>
 <a href="https://www.python.org" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/></a>
- <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="40" height="40"/>
-    </a>
-  <a href="https://kali.org/" target="_blank"> 
-    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Forig12.deviantart.net%2F402b%2Ff%2F2015%2F318%2F9%2F6%2Fmortal_kombat_logo_2_by_llexandro-d9gpghl.png&f=1&nofb=1&ipt=56bc011d65a99ea52b81097395d92e15f3d3f7fe203b5100ed093be5b2a287ef&ipo=images" alt="git" width="40" height="40"/> 
+<a href="https://cloud.google.com/" target="_blank">
+<img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="40" height="40"/></a>
+<a href="https://kali.org/" target="_blank"> 
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Forig12.deviantart.net%2F402b%2Ff%2F2015%2F318%2F9%2F6%2Fmortal_kombat_logo_2_by_llexandro-d9gpghl.png&f=1&nofb=1&ipt=56bc011d65a99ea52b81097395d92e15f3d3f7fe203b5100ed093be5b2a287ef&ipo=images" alt="git" width="40" height="40"/> 
         </a> <!-- {YOU_FOUND.THE.FLAG} -->
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/> 
-    </a>
-  <a href="https://www.w3.org/html/" target="_blank">  
-    <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="html5" width="40" height="40"/> 
-    </a>
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> 
-      <a href="https://www.gnu.org/software/bash/">
-      <img src="https://icon-library.com/images/bash-icon/bash-icon-23.jpg" alt="bash" width="40" height="40"/>
-      </a>
-        </p> 
-            </h1>
+<a href="https://git-scm.com/" target="_blank"> 
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank">  
+<img src="https://img.icons8.com/color/50/000000/html-5.png" alt="html5" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank"> 
+<img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> 
+<a href="https://www.gnu.org/software/bash/">
+<img src="https://icon-library.com/images/bash-icon/bash-icon-23.jpg" alt="bash" width="40" height="40"/</a></p></h1>
     
 <h1 align="center"> 
     </h4>

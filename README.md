@@ -22,31 +22,20 @@ And above all else, leave yourself notes
 -->
 
 - :telescope: 𝚌𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕
-
 - 🧮  𝚙𝚞𝚛𝚜𝚞𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚒𝚎𝚜 𝚒𝚗 𝚒𝚗𝚏𝚘𝚜𝚎𝚌 𝚊𝚝 [𝚂𝙰𝙽𝚂 𝙸𝚗𝚜𝚝𝚒𝚝𝚞𝚝𝚎](https://www.sans.org/)
- 
-- :seedling: 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚌𝚘𝚗𝚝𝚎𝚗𝚝 𝚠𝚛𝚒𝚝𝚒𝚗𝚐 & 𝚟𝚒𝚛𝚝𝚞𝚊𝚕 𝚗𝚎𝚝𝚠𝚘𝚛𝚔 𝚍𝚎𝚜𝚒𝚐𝚗
-
+- :seedling: 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚌𝚘𝚗𝚝𝚎𝚗𝚝 𝚠𝚛𝚒𝚝𝚒𝚗𝚐 & 𝚟𝚒𝚛𝚝𝚞𝚊𝚕 𝚗𝚎𝚝𝚠𝚘𝚛𝚔 𝚍𝚎𝚜𝚒𝚐
 - :small_airplane: 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐮𝐫](https://engineeur.com) *𝐬𝐭𝐚𝐲 𝐭𝐮𝐧𝐞𝐝 𝐟𝐨𝐫 𝐮𝐩𝐝𝐚𝐭𝐞𝐬!*
-
 - :zap: 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚎𝚖𝚎𝚛𝚐𝚒𝚗𝚐 𝚎𝚕𝚎𝚌𝚝𝚛𝚒𝚌 𝚊𝚞𝚝𝚘𝚖𝚘𝚝𝚒𝚟𝚎 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢!    
 <!--
                                                 Understand the code 
                                                 Practice simplicity
                                                 Take your time
-                                                Research & study new framworks and techniques-->
-
-
-
-
+                                                Research & study new framworks and techniques
 <!--
-
 
                                      There is an easter egg located somewhere in this file. Happy hunting! 
 
-
 -->
-
 
 <!-- color coordinate images -->
 - :mailbox: 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: [LinkedIn](https://www.linkedin.com/in/daniel-j-w-torres)
@@ -83,12 +72,9 @@ And above all else, leave yourself notes
                                             </details>
 -->
 
-<h3 align="center"> Languages and Tools I use:
-</h3>
-<p align="center"> 
-<a href="https://azure.com/" target="_blank">
-<img src="https://clipground.com/images/microsoft-azure-clipart-logo-4.png" alt="azure" width="40" height="40"/>
-</a>
+<h3 align="center"> Languages and Tools I use:</h3>
+<p align="center"> <a href="https://azure.com/" target="_blank">
+<img src="https://clipground.com/images/microsoft-azure-clipart-logo-4.png" alt="azure" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"> 
 <img src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="bootstrap" width="40" height="40"/> 
 <a href="https://www.w3schools.com/css/" target="_blank"> 

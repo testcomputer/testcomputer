@@ -45,10 +45,7 @@ And above all else, leave yourself notes
 
 <!-- color coordinate images -->
 
-
-<h1 align="center">
-
-<a href="https://www.linkedin.com/in/daniel-j-w-torres/">
+<h1 align="center"><a href="https://www.linkedin.com/in/daniel-j-w-torres/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <!-- <a href="https://www.youtube.com/channel/UCwlMLasm-aDMaSQc62F92Zg/"> -->
 <a href="https://www.twitter.com/danijordwiletor">
@@ -58,14 +55,16 @@ And above all else, leave yourself notes
 <a href="https://www.youtube.com/@danijordwiletorr"> 
 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 <a href="github.com/testcomputer"> 
-<img src="https://camo.githubusercontent.com/b994fc2dc47e1b1c3bb4932c4b37df5930ec6cae8187a2f363ff63a906b23de4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d776869746527" ata-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white'" style="max-width: 100%;"> <!-- temp fix, open a issue. resolve this -->
-          
-<h1 align="center"> 
+<img src="https://camo.githubusercontent.com/b994fc2dc47e1b1c3bb4932c4b37df5930ec6cae8187a2f363ff63a906b23de4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d776869746527" ata-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white'" style="max-width: 100%;"> <!-- temp fix, open a issue. resolve this --><h1 align="center"> 
  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=testcomputer&count_private=true&theme=tokyonight&showicons=true)]()
+
 <!-- 
+
 ![](https://komarev.com/ghpvc/?username=tstcomputer&style=plastic-square&color=brightgreen)
+
  -->
+ 
  </h1>
  
 <!-- 
@@ -109,7 +108,7 @@ And above all else, leave yourself notes
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> 
 <a href="https://www.gnu.org/software/bash/">
 <img src="https://icon-library.com/images/bash-icon/bash-icon-23.jpg" alt="bash" width="40" height="40"/</a></p></h1>
-    
+ 
 <h1 align="center"></h4>
 
   <!--   
@@ -142,9 +141,7 @@ Every projects folder contains the following files: enum, docs, tests, config, c
 <tr><td><a href="https://hackthebox.com">𝙼𝚎𝚝𝚊𝚜𝚙𝚕𝚘𝚒𝚝 | 𝙼𝚊𝚕𝚠𝚊𝚛𝚎 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 | 𝚃𝚑𝚛𝚎𝚊𝚝 𝙷𝚞𝚗𝚝𝚒𝚗𝚐 | 𝙱𝚞𝚛𝚙 𝚂𝚞𝚒𝚝𝚎 | 𝙽𝚖𝚊𝚙</a></td></tr>
 <tr><td>T𝚛𝚢𝙷𝚊𝚌𝚔𝙼𝚎<br>
 <img src="https://assets.tryhackme.com/img/favicon.png" height="140px" width="140px"><a href="https:TryHackMe.com/"></td></tr><tr><td>
-<a href="https://tryhackme.com"> 𝙻𝚒𝚗𝚞𝚡 | 𝙽𝚎𝚝𝚠𝚘𝚛𝚔 𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗 | 𝙿𝚛𝚒𝚟𝚕𝚎𝚍𝚐𝚎 𝙴𝚜𝚌𝚊𝚕𝚊𝚝𝚒𝚘𝚗 | 𝙿𝚘𝚠𝚎𝚛𝚂𝚑𝚎𝚕𝚕 | 𝙲𝚛𝚢𝚙𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢 </a></td></tr></table></div></table>
-
-</h4>
+<a href="https://tryhackme.com"> 𝙻𝚒𝚗𝚞𝚡 | 𝙽𝚎𝚝𝚠𝚘𝚛𝚔 𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗 | 𝙿𝚛𝚒𝚟𝚕𝚎𝚍𝚐𝚎 𝙴𝚜𝚌𝚊𝚕𝚊𝚝𝚒𝚘𝚗 | 𝙿𝚘𝚠𝚎𝚛𝚂𝚑𝚎𝚕𝚕 | 𝙲𝚛𝚢𝚙𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢 </a></td></tr></table></div></table></h4>
 
 <!-- Description document which defines the guidelines/deliverables and in some cases input and example of output files. -->
 <div style="text-align: left;">

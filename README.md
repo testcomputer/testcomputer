@@ -131,14 +131,12 @@ And above all else, leave yourself notes
  
 -->
 
-<h2 align="center">  Network Security Projects 
-    </h1>
+<h2 align="center">Network Security Projects</h1>
 This repository contains a series of projects relative to network security (attack and mitigation). 
     I work on the development of different projects related to network security, by studying 
     vulnerabilities and countermeasures in networking systems and communication protocols, I 
     developed a set of active defence mechanisms to protect a system on different layers.
-    
-    
+        
 ### All the codes developed were written in Lua, C++ and/or Python on a Linux OS.
 Every projects folder contains the following files: enum, docs, tests, config, creds, examples, dist, exploit, root
 <h4 align="center">
@@ -189,57 +187,19 @@ Every projects folder contains the following files: enum, docs, tests, config, c
 <table><table style="width:200"><tr><td>
 <a href="https://www.youtube.com/watch?v=AVn5glYBz84">
 <img width="140px" src="https://i.ytimg.com/vi/AVn5glYBz84/mqdefault.jpg"></a></td><td>
-    <a href="https://www.youtube.com/watch?v=AVn5glYBz84">June 2021 Meetup: Azure Policy as Code: Zero to Hero in 60 minutes
-    </a>
-    <br/>Jun 23, 2021
-            </td>
-        </tr>
-    </table>
-
-<table>
-    <tr>
-        <td>
-            <a href="https://www.youtube.com/watch?v=SuH_TBBsvLI">
-                <img width="140px" src="https://i.ytimg.com/vi/SuH_TBBsvLI/mqdefault.jpg">
-            </a>
-        </td>
-<td>
-    <a href="https://www.youtube.com/watch?v=SuH_TBBsvLI">Flexing Your Security Governance with Azure Policy As Code
-    </a>
-    <br/>Feb 3, 2022
-        </td>
-    </tr>
-    </table>
-
-<table>
-    <tr>
-        <td>
-            <a href="https://www.youtube.com/watch?v=-KSLh2I9e1U">
-                <img width="140px" src="https://i.ytimg.com/vi/-KSLh2I9e1U/mqdefault.jpg">
-            </a>
-        </td>
-<td>
-    <a href="https://www.youtube.com/watch?v=-KSLh2I9e1U">Flexing Your Security Governance with Azure Policy As Code
-    </a>
-    <br/>Nov 10, 2021
-        </td>
-    </tr>
-    </table>
-
-<table>
-    <tr>
-        <td>
-            <a href="https://www.youtube.com/watch?v=dPwy8nlNyNM">
-                <img width="140px" src="https://i.ytimg.com/vi/dPwy8nlNyNM/mqdefault.jpg">
-            </a>
-        </td>
-<td>
-    <a href="https://www.youtube.com/watch?v=dPwy8nlNyNM">Sydney DevOps Meetup — August 2021
-    </a>
-    <br/>Aug 20, 2021
-        </td>
-    </tr>
-    </table>
+<a href="https://www.youtube.com/watch?v=AVn5glYBz84">June 2021 Meetup: Azure Policy as Code: Zero to Hero in 60 minutes</a><br/>Jun 23, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SuH_TBBsvLI">
+<img width="140px" src="https://i.ytimg.com/vi/SuH_TBBsvLI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SuH_TBBsvLI">Flexing Your Security Governance with Azure Policy As Code</a>
+<br/>Feb 3, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-KSLh2I9e1U">
+<img width="140px" src="https://i.ytimg.com/vi/-KSLh2I9e1U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-KSLh2I9e1U">Flexing Your Security Governance with Azure Policy As Code</a>
+<br/>Nov 10, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=dPwy8nlNyNM">
+<img width="140px" src="https://i.ytimg.com/vi/dPwy8nlNyNM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dPwy8nlNyNM">Sydney DevOps Meetup — August 2021</a>
+<br/>Aug 20, 2021</td></tr></table>
 
 <!-- YouTube Playlist End -->
   

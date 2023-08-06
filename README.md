@@ -47,8 +47,7 @@ And above all else, leave yourself notes
 <h1 align="center">
 
 <a href="https://www.linkedin.com/in/daniel-j-w-torres/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <!-- <a href="https://www.youtube.com/channel/UCwlMLasm-aDMaSQc62F92Zg/"> -->
 <a href="https://www.twitter.com/danijordwiletor">
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
@@ -109,8 +108,7 @@ And above all else, leave yourself notes
 <a href="https://www.gnu.org/software/bash/">
 <img src="https://icon-library.com/images/bash-icon/bash-icon-23.jpg" alt="bash" width="40" height="40"/</a></p></h1>
     
-<h1 align="center"> 
-    </h4>
+<h1 align="center"></h4>
 
   <!--   
 

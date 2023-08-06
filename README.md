@@ -29,7 +29,9 @@ And above all else, leave yourself notes
   
 - :small_airplane: 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐮𝐫](https://engineeur.com) *𝐬𝐭𝐚𝐲 𝐭𝐮𝐧𝐞𝐝 𝐟𝐨𝐫 𝐮𝐩𝐝𝐚𝐭𝐞𝐬!*
   
-- :zap: 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚎𝚖𝚎𝚛𝚐𝚒𝚗𝚐 𝚎𝚕𝚎𝚌𝚝𝚛𝚒𝚌 𝚊𝚞𝚝𝚘𝚖𝚘𝚝𝚒𝚟𝚎 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢!    
+- :zap: 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚎𝚖𝚎𝚛𝚐𝚒𝚗𝚐 𝚎𝚕𝚎𝚌𝚝𝚛𝚒𝚌 𝚊𝚞𝚝𝚘𝚖𝚘𝚝𝚒𝚟𝚎 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢!
+
+- :mailbox: 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: [LinkedIn](https://www.linkedin.com/in/daniel-j-w-torres)
 <!--
                                                 Understand the code 
                                                 Practice simplicity
@@ -42,7 +44,7 @@ And above all else, leave yourself notes
 -->
 
 <!-- color coordinate images -->
-- :mailbox: 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: [LinkedIn](https://www.linkedin.com/in/daniel-j-w-torres)
+
 
 <h1 align="center">
 

@@ -43,7 +43,7 @@ And above all else, leave yourself notes
 
 -->
 
-<!-- color coordinate images -->
+<!-- Color coordinate images -->
 
 <h1 align="center"><a href="https://www.linkedin.com/in/daniel-j-w-torres/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
@@ -122,9 +122,9 @@ And above all else, leave yourself notes
 
 <h2 align="center">Network Security Projects</h1>
 This repository contains a series of projects relative to network security (attack and mitigation). 
-    I work on the development of different projects related to network security, by studying 
-    vulnerabilities and countermeasures in networking systems and communication protocols, I 
-    developed a set of active defence mechanisms to protect a system on different layers.
+I work on the development of different projects related to network security, by studying 
+vulnerabilities and countermeasures in networking systems and communication protocols, I 
+developed a set of active defence mechanisms to protect a system on different layers.
         
 ### All the codes developed were written in Lua, C++ and/or Python on a Linux OS.
 Every projects folder contains the following files: enum, docs, tests, config, creds, examples, dist, exploit, root
@@ -137,15 +137,21 @@ Every projects folder contains the following files: enum, docs, tests, config, c
 𝙷𝚊𝚌𝚔𝚃𝚑𝚎𝙱𝚘𝚡
 <br>
 <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" height="140px" width="140px">
-<!-- < href="https://HackTheBox.com" </a> --></td></tr>
-<tr><td><a href="https://hackthebox.com">𝙼𝚎𝚝𝚊𝚜𝚙𝚕𝚘𝚒𝚝 | 𝙼𝚊𝚕𝚠𝚊𝚛𝚎 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 | 𝚃𝚑𝚛𝚎𝚊𝚝 𝙷𝚞𝚗𝚝𝚒𝚗𝚐 | 𝙱𝚞𝚛𝚙 𝚂𝚞𝚒𝚝𝚎 | 𝙽𝚖𝚊𝚙</a></td></tr>
+
+ <!-- 
+ 
+ < href="https://HackTheBox.com" </a> 
+ 
+ -->
+ 
+</td></tr><tr><td><a href="https://hackthebox.com">𝙼𝚎𝚝𝚊𝚜𝚙𝚕𝚘𝚒𝚝 | 𝙼𝚊𝚕𝚠𝚊𝚛𝚎 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 | 𝚃𝚑𝚛𝚎𝚊𝚝 𝙷𝚞𝚗𝚝𝚒𝚗𝚐 | 𝙱𝚞𝚛𝚙 𝚂𝚞𝚒𝚝𝚎 | 𝙽𝚖𝚊𝚙</a></td></tr>
 <tr><td>T𝚛𝚢𝙷𝚊𝚌𝚔𝙼𝚎<br>
 <img src="https://assets.tryhackme.com/img/favicon.png" height="140px" width="140px"><a href="https:TryHackMe.com/"></td></tr><tr><td>
 <a href="https://tryhackme.com"> 𝙻𝚒𝚗𝚞𝚡 | 𝙽𝚎𝚝𝚠𝚘𝚛𝚔 𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗 | 𝙿𝚛𝚒𝚟𝚕𝚎𝚍𝚐𝚎 𝙴𝚜𝚌𝚊𝚕𝚊𝚝𝚒𝚘𝚗 | 𝙿𝚘𝚠𝚎𝚛𝚂𝚑𝚎𝚕𝚕 | 𝙲𝚛𝚢𝚙𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢 </a></td></tr></table></div></table></h4>
 
 <!-- Description document which defines the guidelines/deliverables and in some cases input and example of output files. -->
 <div style="text-align: left;">
-    Topics
+Topics
 
     Project X: DNS Packet Capture and Fields Parsing (Malicious Detection)
     Project J: Dynamic ARP Inspection Module
@@ -155,11 +161,14 @@ Every projects folder contains the following files: enum, docs, tests, config, c
     Project Z: IPS for SYN Flood Mitigations (Statistical/Behavioral/Cookies Protections)
 
 </div>
+
 <!-- 
    
 <h4><details><summary><strong>Mostly Used Languages </strong></summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact" alt="testcomputer's mostly used Languages"/></details></h4>
+
 -->
+
 <h3 align="center">
 <div><details><summary><strong>Professional Summary</strong></summary>
 <h5> Experienced Linux system administrator with a strong analytical mindset and expertise in various open-source operating systems. Committed to enhancing network uptime and system availability through effective installation, configuration, and administration of Linux systems. With 7 years of experience working with computer systems, I bring a deep understanding of network diagnostics and development operations. A diligent troubleshooter with excellent communication skills, adept at collaborating with employees and navigating diverse IT environments. Currently focused on developing agile & six sigma project management methodologies.</h5></details>
@@ -190,38 +199,13 @@ Every projects folder contains the following files: enum, docs, tests, config, c
 
 <!-- YouTube Playlist End -->
   
-  <!--
- <table>
-    <tr>
-        <td>
-            <a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">
-                <img width="140px" src="https://user-images.githubusercontent.com/104815254/230734507-d07ffaeb-0539-4630-a1cf-53ab10ca6bbe.png">
-            </a>
-        </td>
-<td>
-    <a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">Career Growth Strategies — April 2023
-    </a>
-    <br/>Apr 3, 2023
-        </td>
-    </tr>
-    </table>
-   
-    -->
+<!--
+  
+<table><tr><td><a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">
+<img width="140px" src="https://user-images.githubusercontent.com/104815254/230734507-d07ffaeb-0539-4630-a1cf-53ab10ca6bbe.png"></a></td>
+<td><a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">Career Growth Strategies — April 2023</a><br/>Apr 3, 2023</td></tr></table>
+
+-->
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
- 
 <p align="center"> <a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" 
  screenshots/Referrals/azure_referral.png/><img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="750" height="1">

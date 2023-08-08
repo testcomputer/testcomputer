@@ -207,7 +207,8 @@ Topics
 <td><a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">Career Growth Strategies — April 2023</a><br/>Apr 3, 2023</td></tr></table>
 -->
 
-![image](https://github.com/testcomputer/testcomputer/assets/104815254/9e72027b-9b84-488d-85c4-3dc58d5443b4)
+<a href="https://www.gnu.org/software/bash/">
+<img src="https://github.com/testcomputer/testcomputer/assets/104815254/9e72027b-9b84-488d-85c4-3dc58d5443b4"</a>
 
    
 <p align="center"> <a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" 

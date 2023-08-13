@@ -210,6 +210,8 @@ Topics
 <a href="https://www.gnu.org/software/bash/">
 <img src="https://github.com/testcomputer/testcomputer/assets/104815254/9e72027b-9b84-488d-85c4-3dc58d5443b4"</a>
 
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="daniel-j-w-torres" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/daniel-j-w-torres?trk=profile-badge">Daniel J. W. Torres</a></div>
+              
    
 <p align="center"> <a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" 
  screenshots/Referrals/azure_referral.png/><img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="750" height="1">

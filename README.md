@@ -122,7 +122,7 @@ And above all else, leave yourself notes
 -->
 
 <h2 align="center">Network Security Projects</h1>
-Welcome to my repository, a playground of network security adventures that dance between the shadows of attacks and the shield of defenses. Here, I dive into the thrilling world of network security, concocting projects that tinker with vulnerabilities and their clever countermeasures. Think of it as my secret lab where I cook up schemes using Lua, C++, and Python on the trusted canvas of Linux.
+Welcome to my repository, a playground of network security adventures that dance between the shadows of attacks and the shield of defenses. Here, I dive into the thrilling world of network security, concocting projects that tinker with vulnerabilities and their clever countermeasures. Think of it as my secret lab where I cook up schemes using Lua, C++, Ruby, and Python on the trusted canvas of Linux.
 Immersed within this comprehensive repository, each project folder serves as a treasure trove of essential components:
 
    - docs: Detailed documentation that captures the essence of each project.

@@ -128,7 +128,7 @@ vulnerabilities and countermeasures in networking systems and communication prot
 developed a set of active attack mechanisms to infiltrate a system on different layers.
         
 ### All the codes developed were written in Lua, C++ and/or Python on a Linux OS.
-Every projects folder contains the following files: enum, docs, tests, config, creds, examples, dist, exploit, root
+Every projects folder contains the following files: enum, docs, tests, config, creds, examples, dist, exploit, root, logs, plugins, temp, bin, backup, web, sandbox
 <h4 align="center">
 <div style="display: flex; justify-content: center;">
 <table style="width: 750px;">

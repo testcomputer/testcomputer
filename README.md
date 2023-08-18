@@ -122,13 +122,34 @@ And above all else, leave yourself notes
 -->
 
 <h2 align="center">Network Security Projects</h1>
-This repository contains a series of projects relative to network security (attack and mitigation). 
+Welcome to my repository, a playground of network security adventures that dance between the shadows of attacks and the shield of defenses. Here, I dive into the thrilling world of network security, concocting projects that tinker with vulnerabilities and their clever countermeasures. Think of it as my secret lab where I cook up schemes using Lua, C++, and Python on the trusted canvas of Linux.
+Immersed within this comprehensive repository, each project folder serves as a treasure trove of essential components:
+
+
+### Schemes using Lua, C++, and Python on the trusted canvas of Linux.
+
+   - enum: Unveiling crucial insights through enumeration.
+   - docs: Detailed documentation that captures the essence of each project.
+    -tests: Rigorous testing to ensure robustness and efficacy.
+   - config: Configuration settings that fine-tune project behavior.
+-    creds: A secure vault for credentials, prioritizing confidentiality.
+ -   examples: Illuminating examples that provide context and clarity.
+  -  dist: Distributions and packaged releases, ready for deployment.
+   - exploit: Crafted exploits that spotlight vulnerabilities.
+-    root: Root-level materials, providing an all-encompassing perspective.
+ -   logs: A record of activities, offering transparency and traceability.
+  -  plugins: Enriching extensions that enhance project functionality.
+   - temp: Temporal files that serve immediate purposes.
+-    bin: Executable binaries resulting from meticulous development.
+ -   backup: Secure backups for pivotal project components.
+  -  web: A web-centric space for project-related activities.
+   - sandbox: An isolated environment for experimental iterations.
+
+<!-- This repository contains a series of projects relative to network security (attack and mitigation). 
 I work on the development of different projects related to network security, by studying 
 vulnerabilities and countermeasures in networking systems and communication protocols, I 
-developed a set of active attack mechanisms to infiltrate a system on different layers.
-        
-### All the codes developed were written in Lua, C++ and/or Python on a Linux OS.
-Every projects folder contains the following files: enum, docs, tests, config, creds, examples, dist, exploit, root, logs, plugins, temp, bin, backup, web, sandbox
+developed a set of active attack mechanisms to infiltrate a system on different layers. -->
+
 <h4 align="center">
 <div style="display: flex; justify-content: center;">
 <table style="width: 750px;">

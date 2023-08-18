@@ -125,19 +125,16 @@ And above all else, leave yourself notes
 Welcome to my repository, a playground of network security adventures that dance between the shadows of attacks and the shield of defenses. Here, I dive into the thrilling world of network security, concocting projects that tinker with vulnerabilities and their clever countermeasures. Think of it as my secret lab where I cook up schemes using Lua, C++, and Python on the trusted canvas of Linux.
 Immersed within this comprehensive repository, each project folder serves as a treasure trove of essential components:
 
-
-### Schemes using Lua, C++, and Python on the trusted canvas of Linux.
-
-   - enum: Unveiling crucial insights through enumeration.
    - docs: Detailed documentation that captures the essence of each project.
+   - creds: A secure vault for credentials, prioritizing confidentiality.
+   - logs: A record of activities, offering transparency and traceability.
+   - root: Root-level materials, providing an all-encompassing perspective.
+   - enum: Unveiling crucial insights through enumeration.
     -tests: Rigorous testing to ensure robustness and efficacy.
    - config: Configuration settings that fine-tune project behavior.
--    creds: A secure vault for credentials, prioritizing confidentiality.
  -   examples: Illuminating examples that provide context and clarity.
   -  dist: Distributions and packaged releases, ready for deployment.
    - exploit: Crafted exploits that spotlight vulnerabilities.
--    root: Root-level materials, providing an all-encompassing perspective.
- -   logs: A record of activities, offering transparency and traceability.
   -  plugins: Enriching extensions that enhance project functionality.
    - temp: Temporal files that serve immediate purposes.
 -    bin: Executable binaries resulting from meticulous development.

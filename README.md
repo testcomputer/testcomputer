@@ -171,10 +171,8 @@ Topics
 -->
 
 <h3 align="center">
-<div><details><summary><strong>Professional Summary</strong></summary>
-<h5> Experienced in the realm of Linux system administration, I offer a comprehensive understanding of various open-source operating systems, coupled with a strong analytical acumen. As a mid-level network administrator, my focus is on elevating network reliability and system accessibility through meticulous Unix system installation, configuration, and management.
-
-With a background spanning 7 years in computer systems management, I have cultivated an in-depth grasp of network diagnostics and development operations. This expertise positions me as a proficient troubleshooter, bolstered by my effective communication capabilities that facilitate seamless collaboration in diverse IT landscapes. In parallel with my technical competencies, my current endeavors encompass agile and Six Sigma project management methodologies, a testament to my commitment to refining processes and fostering operational excellence. With unwavering dedication to optimizing network dynamics and system efficiency, I am primed to make a meaningful contribution to your team and organization.</h5></details>
+<div><details><summary><b>Professional Summary</summary></b>
+<h5> Experienced in the realm of Linux system administration, I offer a comprehensive understanding of various open-source operating systems, coupled with a strong analytical acumen. As a network administrator, my focus is on elevating network reliability & system accessibility through meticulous Unix system installation, configuration, and management. With a background spanning over 10 years in computer systems management, I have cultivated an in-depth grasp of network diagnostics and development operations. This expertise positions me as a proficient troubleshooter, bolstered by my effective communication capabilities that facilitate seamless collaboration in diverse IT landscapes. In parallel with my technical competencies, my current endeavors encompass agile and Six Sigma project management methodologies, a testament to my commitment to refining processes and fostering operational excellence. With unwavering dedication to optimizing network dynamics and system efficiency, I am primed to make a meaningful contribution to your team and organization.</h5></details>
 
 <!-- YouTube Playlist Begin -->
 

@@ -125,7 +125,7 @@ And above all else, leave yourself notes
 This repository contains a series of projects relative to network security (attack and mitigation). 
 I work on the development of different projects related to network security, by studying 
 vulnerabilities and countermeasures in networking systems and communication protocols, I 
-developed a set of active defence mechanisms to protect a system on different layers.
+developed a set of active attack mechanisms to infiltrate a system on different layers.
         
 ### All the codes developed were written in Lua, C++ and/or Python on a Linux OS.
 Every projects folder contains the following files: enum, docs, tests, config, creds, examples, dist, exploit, root

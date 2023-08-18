@@ -130,7 +130,7 @@ Immersed within this comprehensive repository, each project folder serves as a t
    - logs: A record of activities, offering transparency and traceability.
    - root: Root-level materials, providing an all-encompassing perspective.
    - enum: Unveiling crucial insights through enumeration.
-    -tests: Rigorous testing to ensure robustness and efficacy.
+   - tests: Rigorous testing to ensure robustness and efficacy.
    - config: Configuration settings that fine-tune project behavior.
  -   examples: Illuminating examples that provide context and clarity.
   -  dist: Distributions and packaged releases, ready for deployment.

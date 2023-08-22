@@ -126,20 +126,19 @@ Welcome to my repository, a playground of network security adventures that dance
 Immersed within this comprehensive repository, each project folder serves as a treasure trove of essential components:
 
    - docs: Detailed documentation that captures the essence of each project.
-   - creds: A secure vault for credentials, prioritizing confidentiality.
+   - creds: A secure vault for credentials.
    - logs: A record of activities, offering transparency and traceability.
    - root: Root-level materials, providing an all-encompassing perspective.
    - enum: Unveiling crucial insights through enumeration.
-   - tests: Rigorous testing to ensure robustness and efficacy.
+   - tests: Testing to ensure robustness and efficacy.
    - config: Configuration settings that fine-tune project behavior.
- -   examples: Illuminating examples that provide context and clarity.
-  -  dist: Distributions and packaged releases, ready for deployment.
+   - examples: Illuminating examples that provide context and clarity.
    - exploit: Crafted exploits that spotlight vulnerabilities.
-  -  plugins: Enriching extensions that enhance project functionality.
+   - plugins: Enriching extensions that enhance project functionality.
    - temp: Temporal files that serve immediate purposes.
--    bin: Executable binaries resulting from meticulous development.
- -   backup: Secure backups for pivotal project components.
-  -  web: A web-centric space for project-related activities.
+   - bin: Executable binaries resulting from meticulous development.
+   - backup: Secure backups for pivotal project components.
+   - web: A web-centric space for project-related activities.
    - sandbox: An isolated environment for experimental iterations.
 
 <!-- This repository contains a series of projects relative to network security (attack and mitigation). 

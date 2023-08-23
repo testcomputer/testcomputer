@@ -228,7 +228,7 @@ Navigating the intricate Windows landscape for enhanced security.  -->
 
 <!-- Description document which defines the guidelines/deliverables and in some cases input and example of output files. -->
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 Topics
  
       Project A: Network Sniffing and Analysis with Wireshark

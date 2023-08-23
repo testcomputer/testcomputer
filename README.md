@@ -223,36 +223,36 @@ Navigating the intricate Windows landscape for enhanced security.  -->
     </td>
     <td> 𝙻𝚘𝚐 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 | 𝙴𝚗𝚍𝚙𝚘𝚒𝚗𝚝 𝙿𝚛𝚘𝚝𝚎𝚌𝚝𝚒𝚘𝚗 | 𝚃𝚑𝚛𝚎𝚊𝚝 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎 | 𝙸𝚗𝚌𝚒𝚍𝚎𝚗𝚝 𝚁𝚎𝚜𝚙𝚘𝚗𝚜𝚎 | 𝚅𝚞𝚕𝚗𝚎𝚛𝚊𝚋𝚒𝚕𝚒𝚝𝚢 𝙼𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 | 𝙸𝚗𝚝𝚛𝚞𝚜𝚒𝚘𝚗 𝙳𝚎𝚝𝚎𝚌𝚝𝚒𝚘𝚗 </td>
   </tr>
-</table>
-</div>
-</a>
+</table><div></div>
+
+
 <!-- Description document which defines the guidelines/deliverables and in some cases input and example of output files. -->
+
 <div style="text-align: left;">
 Topics
-
-     Project A: Network Sniffing and Analysis with Wireshark
-     Project B: Building a Honeypot to Lure Cyber Intruders
-     Project C: Firewall Rule Optimization for Maximum Security
-     Project D: Crafting Custom Intrusion Detection Signatures
-     Project E: Exploiting Cross-Site Scripting Vulnerabilities
-     Project F: Securing Web Applications with OWASP Top Ten
-     Project G: Designing a Secure Multi-factor Authentication System
-     Project H: Malware Analysis and Dynamic Behavior Profiling
-     Project I: Wireless Network Penetration Testing (Wi-Fi Hacking)
-     Project K: Bypassing Network Access Control Systems
-     Project L: Secure Configuration of Network Routers and Switches
-     Project M: Host-based Intrusion Detection System (HIDS) Setup
-     Project N: Cryptography for Network Traffic Encryption
-     Project O: Cloud Security Configuration and Best Practices
-     Project P: Social Engineering and Phishing Simulations
-     Project Q: Vulnerability Scanning and Patch Management
-     Project S: Implementing a Software Defined Network (SDN)
-     Project T: Network Traffic Anomaly Detection using Machine Learning
-     Project V: Secure VPN Setup and Configuration
-     Project X: DNS Packet Capture and Fields Parsing (Malicious Detection)
-     Project Y: Securing IoT Devices in a Home Network
-     Project Z: Continuous Security Monitoring with SIEM Solutions
-
+ 
+      Project A: Network Sniffing and Analysis with Wireshark
+      Project B: Building a Honeypot to Lure Cyber Intruders
+      Project C: Firewall Rule Optimization for Maximum Security
+      Project D: Crafting Custom Intrusion Detection Signatures
+      Project E: Exploiting Cross-Site Scripting Vulnerabilities
+      Project F: Securing Web Applications with OWASP Top Ten
+      Project G: Designing a Secure Multi-factor Authentication System
+      Project H: Malware Analysis and Dynamic Behavior Profiling
+      Project I: Wireless Network Penetration Testing (Wi-Fi Hacking)
+      Project K: Bypassing Network Access Control Systems
+      Project L: Secure Configuration of Network Routers and Switches
+      Project M: Host-based Intrusion Detection System (HIDS) Setup
+      Project N: Cryptography for Network Traffic Encryption
+      Project O: Cloud Security Configuration and Best Practices
+      Project P: Social Engineering and Phishing Simulations
+      Project Q: Vulnerability Scanning and Patch Management
+      Project S: Implementing a Software Defined Network (SDN)
+      Project T: Network Traffic Anomaly Detection using Machine Learning
+      Project V: Secure VPN Setup and Configuration
+      Project X: DNS Packet Capture and Fields Parsing (Malicious Detection)
+      Project Y: Securing IoT Devices in a Home Network
+      Project Z: Continuous Security Monitoring with SIEM Solutions
 </div>
 
 <!-- 

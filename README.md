@@ -145,7 +145,7 @@ Immersed within this comprehensive repository, each project folder serves as a t
 I work on the development of different projects related to network security, by studying 
 vulnerabilities and countermeasures in networking systems and communication protocols, I 
 developed a set of active attack mechanisms to infiltrate a system on different layers. -->
-
+<!--
 <div><details><summary><b>My Collection of Security Tools & Utilities</summary></b>
 
 **Clouds:** *Unveiling Secure Cloud Environments*
@@ -187,7 +187,7 @@ Safeguarding digital assets and user data.
 **Windows:** *Mastering Windows Environments with Precision*
 
 Developing scripts, tools, and exploits for securing Windows systems.
-Navigating the intricate Windows landscape for enhanced security.
+Navigating the intricate Windows landscape for enhanced security.  -->
 
 </div></details></summary></b></summary></b>
 

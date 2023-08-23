@@ -146,7 +146,7 @@ I work on the development of different projects related to network security, by 
 vulnerabilities and countermeasures in networking systems and communication protocols, I 
 developed a set of active attack mechanisms to infiltrate a system on different layers. -->
 
-## My Collection of Security Tools & Utilities
+<div><details><summary><b>My Collection of Security Tools & Utilities</summary></b>
 
 **Clouds:** *Unveiling Secure Cloud Environments*
 
@@ -188,6 +188,8 @@ Safeguarding digital assets and user data.
 
 Developing scripts, tools, and exploits for securing Windows systems.
 Navigating the intricate Windows landscape for enhanced security.
+
+</div></details></summary></b></summary></b>
 
 <h4 align="center">
 <div style="display: flex; justify-content: center;">

@@ -196,21 +196,36 @@ Navigating the intricate Windows landscape for enhanced security.  -->
 <table style="width: 750px;">
 <tr>
 <b> Ｃｕｒｒｅｎｔ Ｐｒｏｊｅｃｔｓ：</b>
-<td>
+ 
 𝙷𝚊𝚌𝚔𝚃𝚑𝚎𝙱𝚘𝚡
 <br>
-<img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" height="140px" width="140px">
+<table style="width: 900px;">
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://hackthebox.com"><img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" height="140px" width="140px"></a>
+      <br>
+      𝙷𝚊𝚌𝚔𝚃𝚑𝚎𝙱𝚘𝚡
+    </td>
+    <td>| 𝙼𝚎𝚝𝚊𝚜𝚙𝚕𝚘𝚒𝚝 | 𝙼𝚊𝚕𝚠𝚊𝚛𝚎 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 | 𝚃𝚑𝚛𝚎𝚊𝚝 𝙷𝚞𝚗𝚝𝚒𝚗𝚐 | 𝙱𝚞𝚛𝚙 𝚂𝚞𝚒𝚝𝚎 | 𝙽𝚖𝚊𝚙 |</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://tryhackme.com/"><img src="https://assets.tryhackme.com/img/favicon.png" height="140px" width="140px"></a>
+      <br>
+     𝚃𝚛𝚢𝙷𝚊𝚌𝚔𝙼𝚎
+    </td>
+    <td>| 𝙻𝚒𝚗𝚞𝚡 | 𝙽𝚎𝚝𝚠𝚘𝚛𝚔 𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗 | 𝙿𝚛𝚒𝚟𝚒𝚕𝚎𝚐𝚎 𝙴𝚜𝚌𝚊𝚕𝚊𝚝𝚒𝚘𝚗 | 𝙿𝚘𝚠𝚎𝚛𝚂𝚑𝚎𝚕𝚕 |</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://letsdefend.io"><img src="https://letsdefend.io/static/img/letsdefend-logo.png" height="140px" width="140px"></a>
+      <br>
+      𝙻𝚎𝚝𝚜𝙳𝚎𝚏𝚎𝚗𝚍
+    </td>
+    <td>| 𝙻𝚘𝚐 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 | 𝙴𝚗𝚍𝚙𝚘𝚒𝚗𝚝 𝙿𝚛𝚘𝚝𝚎𝚌𝚝𝚒𝚘𝚗 | 𝚃𝚑𝚛𝚎𝚊𝚝 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎 | 𝙸𝚗𝚌𝚒𝚍𝚎𝚗𝚝 𝚁𝚎𝚜𝚙𝚘𝚗𝚜𝚎 | 𝚅𝚞𝚕𝚗𝚎𝚛𝚊𝚋𝚒𝚕𝚒𝚝𝚢 𝙼𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 | 𝙸𝚗𝚝𝚛𝚞𝚜𝚒𝚘𝚗 𝙳𝚎𝚝𝚎𝚌𝚝𝚒𝚘𝚗 |</td>
+  </tr>
+</table>
 
- <!-- 
- 
- < href="https://HackTheBox.com" </a> 
- 
- -->
- 
-</td></tr><tr><td><a href="https://hackthebox.com">𝙼𝚎𝚝𝚊𝚜𝚙𝚕𝚘𝚒𝚝 | 𝙼𝚊𝚕𝚠𝚊𝚛𝚎 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 | 𝚃𝚑𝚛𝚎𝚊𝚝 𝙷𝚞𝚗𝚝𝚒𝚗𝚐 | 𝙱𝚞𝚛𝚙 𝚂𝚞𝚒𝚝𝚎 | 𝙽𝚖𝚊𝚙</a></td></tr>
-<tr><td>T𝚛𝚢𝙷𝚊𝚌𝚔𝙼𝚎<br>
-<img src="https://assets.tryhackme.com/img/favicon.png" height="140px" width="140px"><a href="https:TryHackMe.com/"></td></tr><tr><td>
-<a href="https://tryhackme.com"> 𝙻𝚒𝚗𝚞𝚡 | 𝙽𝚎𝚝𝚠𝚘𝚛𝚔 𝙴𝚡𝚙𝚕𝚘𝚒𝚝𝚊𝚝𝚒𝚘𝚗 | 𝙿𝚛𝚒𝚟𝚕𝚎𝚍𝚐𝚎 𝙴𝚜𝚌𝚊𝚕𝚊𝚝𝚒𝚘𝚗 | 𝙿𝚘𝚠𝚎𝚛𝚂𝚑𝚎𝚕𝚕 | 𝙲𝚛𝚢𝚙𝚝𝚘𝚐𝚛𝚊𝚙𝚑𝚢 </a></td></tr></table></div></table></h4>
 
 <!-- Description document which defines the guidelines/deliverables and in some cases input and example of output files. -->
 <div style="text-align: left;">

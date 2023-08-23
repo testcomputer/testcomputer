@@ -197,7 +197,6 @@ Navigating the intricate Windows landscape for enhanced security.  -->
 <tr>
 <b> Ｃｕｒｒｅｎｔ Ｐｒｏｊｅｃｔｓ：</b>
  
-𝙷𝚊𝚌𝚔𝚃𝚑𝚎𝙱𝚘𝚡
 <br>
 <table style="width: 900px;">
   <tr>

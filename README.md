@@ -225,7 +225,7 @@ Navigating the intricate Windows landscape for enhanced security.  -->
     <td> 𝙻𝚘𝚐 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 | 𝙴𝚗𝚍𝚙𝚘𝚒𝚗𝚝 𝙿𝚛𝚘𝚝𝚎𝚌𝚝𝚒𝚘𝚗 | 𝚃𝚑𝚛𝚎𝚊𝚝 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎 | 𝙸𝚗𝚌𝚒𝚍𝚎𝚗𝚝 𝚁𝚎𝚜𝚙𝚘𝚗𝚜𝚎 | 𝚅𝚞𝚕𝚗𝚎𝚛𝚊𝚋𝚒𝚕𝚒𝚝𝚢 𝙼𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 | 𝙸𝚗𝚝𝚛𝚞𝚜𝚒𝚘𝚗 𝙳𝚎𝚝𝚎𝚌𝚝𝚒𝚘𝚗 </td>
   </tr>
 </table>
-
+</div>
 
 <!-- Description document which defines the guidelines/deliverables and in some cases input and example of output files. -->
 <div style="text-align: left;">

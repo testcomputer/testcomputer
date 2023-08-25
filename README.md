@@ -64,7 +64,7 @@ And above all else, leave yourself notes
 <h4 align="center">
 <details>
 <summary>📊 <b>Language Stats</b></summary><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact&theme=dark" alt="testcomputer's mostly used Languages"/></details></h4>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact&theme=tokyonight" alt="testcomputer's mostly used Languages"/></details></h4>
 </details></h4></summary>
 
 <!-- 

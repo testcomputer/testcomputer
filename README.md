@@ -60,6 +60,13 @@ And above all else, leave yourself notes
  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=testcomputer&count_private=true&theme=tokyonight&showicons=true)]()</h1>
 
+<h4><details><summary><strong>Mostly Used Languages </strong></summary>
+<h4 align="center">
+<details>
+<summary>📊 <b>GitHub Readme Stats</b></summary><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact&theme=dark" alt="testcomputer's mostly used Languages"/></details></h4>
+</details></h4></summary>
+
 <!-- 
 
 ![](https://komarev.com/ghpvc/?username=tstcomputer&style=plastic-square&color=brightgreen)
@@ -212,14 +219,7 @@ Topics
       Project Y: Securing IoT Devices in a Home Network
       Project Z: Continuous Security Monitoring with SIEM Solutions
 </div>
-
-<!-- 
-   
-<h4><details><summary><strong>Mostly Used Languages </strong></summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testcomputer&layout=compact" alt="testcomputer's mostly used Languages"/></details></h4>
-
--->
-
+  
 <h3 align="center">
 <div><details><summary><b>Professional Summary</summary></b>
 <h5> Experienced in the realm of Linux system administration, I offer a comprehensive understanding of various open-source operating systems, coupled with a strong analytical acumen. As a network administrator, my focus is on elevating network reliability & system accessibility through meticulous Unix system installation, configuration, and management. With a background spanning over 10 years in computer systems management, I have cultivated an in-depth grasp of network diagnostics and development operations. This expertise positions me as a proficient troubleshooter, bolstered by my effective communication capabilities that facilitate seamless collaboration in diverse IT landscapes. In parallel with my technical competencies, my current endeavors encompass agile and Six Sigma project management methodologies, a testament to my commitment to refining processes and fostering operational excellence. With unwavering dedication to optimizing network dynamics and system efficiency, I am primed to make a meaningful contribution to your team and organization.</h5></details>

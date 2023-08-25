@@ -145,49 +145,7 @@ Immersed within this comprehensive repository, each project folder serves as a t
 I work on the development of different projects related to network security, by studying 
 vulnerabilities and countermeasures in networking systems and communication protocols, I 
 developed a set of active attack mechanisms to infiltrate a system on different layers. -->
-<!--
-<div><details><summary><b>My Collection of Security Tools & Utilities</summary></b>
 
-**Clouds:** *Unveiling Secure Cloud Environments*
-
-Presenting innovative tools for cloud assessments.
-Ensuring the integrity, resilience, and security of cloud infrastructures.
-
-**File Formats:** *Decoding Complex Data Handling*
-
-Utilizing utilities, fuzzers, and tools for secure data handling.
-Strengthening data protection against vulnerabilities.
-
-**Linux:** *Navigating the Linux Ecosystem Expertly*
-
-Crafting Linux-based scripts for diverse security aspects.
-Proficiency in fortifying open-source systems.
-
-**Networks:** *Forging Resilient Networks via Penetration Testing*
-
-Creating meticulously crafted tools for network devices and protocols.
-Unearthing vulnerabilities and enhancing network defenses.
-
-**Automation:** *Embracing Multifaceted Cybersecurity Craft*
-
-
-Offering versatile tools to address unique challenges.
-Adopting a holistic approach to information security.
-
-**Red Teaming:** *Embracing the Role of a Cyber Adversary*
-
-Providing refined tools calibrated for purple/red teaming.
-Simulating adversarial scenarios for robust defense.
-
-**Web:** *Navigating the Web Application Security Landscape*
-
-Utilizing tools for identifying vulnerabilities in web platforms.
-Safeguarding digital assets and user data.
-
-**Windows:** *Mastering Windows Environments with Precision*
-
-Developing scripts, tools, and exploits for securing Windows systems.
-Navigating the intricate Windows landscape for enhanced security.  -->
 
 </div></details></summary></b></summary></b>
 

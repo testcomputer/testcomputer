@@ -192,7 +192,7 @@ developed a set of active attack mechanisms to infiltrate a system on different 
 <!-- Description document which defines the guidelines/deliverables and in some cases input and example of output files. -->
 
 <h3 align="center">
-<div><details><summary><b>Projects</summary></b>
+<div><details><summary><b>Interests</summary></b>
 
 <div style="text-align: left;">
 Topics

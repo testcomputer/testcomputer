@@ -194,28 +194,28 @@ developed a set of active attack mechanisms to infiltrate a system on different 
 <div style="text-align: left;">
 Topics
  
-      Project A: Network Sniffing and Analysis with Wireshark
-      Project B: Building a Honeypot to Lure Cyber Intruders
-      Project C: Firewall Rule Optimization for Maximum Security
-      Project D: Crafting Custom Intrusion Detection Signatures
+      Project: Network Sniffing and Analysis with Wireshark
+      Project: Building a Honeypot to Lure Cyber Intruders
+      Project: Firewall Rule Optimization for Maximum Security
+   <!--   Project D: Crafting Custom Intrusion Detection Signatures -->
       Project E: Exploiting Cross-Site Scripting Vulnerabilities
-      Project F: Securing Web Applications with OWASP Top Ten
-      Project G: Designing a Secure Multi-factor Authentication System
-      Project H: Malware Analysis and Dynamic Behavior Profiling
-      Project I: Wireless Network Penetration Testing (Wi-Fi Hacking)
-      Project K: Bypassing Network Access Control Systems
-      Project L: Secure Configuration of Network Routers and Switches
-      Project M: Host-based Intrusion Detection System (HIDS) Setup
-      Project N: Cryptography for Network Traffic Encryption
-      Project O: Cloud Security Configuration and Best Practices
-      Project P: Social Engineering and Phishing Simulations
-      Project Q: Vulnerability Scanning and Patch Management
-      Project S: Implementing a Software Defined Network (SDN)
-      Project T: Network Traffic Anomaly Detection using Machine Learning
-      Project V: Secure VPN Setup and Configuration
-      Project X: DNS Packet Capture and Fields Parsing (Malicious Detection)
-      Project Y: Securing IoT Devices in a Home Network
-      Project Z: Continuous Security Monitoring with SIEM Solutions
+  <!--    Project F: Securing Web Applications with OWASP Top Ten -->
+  <!--    Project G: Designing a Secure Multi-factor Authentication System -->
+      Project: Malware Analysis and Dynamic Behavior Profiling
+      Project: Wireless Network Penetration Testing (Wi-Fi Hacking)
+      Project: Bypassing Network Access Control Systems
+      Project: Secure Configuration of Network Routers and Switches
+      Project: Host-based Intrusion Detection System (HIDS) Setup
+   <!--   Project N: Cryptography for Network Traffic Encryption -->
+      Project: Cloud Security Configuration and Best Practices
+    <!--  Project: Social Engineering and Phishing Simulations -->
+      Project: Vulnerability Scanning and Patch Management
+  <!--    Project S: Implementing a Software Defined Network (SDN)  -->
+<!--      Project T: Network Traffic Anomaly Detection using Machine Learning -->
+      Project: Secure VPN Setup and Configuration
+      Project: DNS Packet Capture and Fields Parsing (Malicious Detection)
+      Project: Securing IoT Devices in a Home Network 
+      Project: Continuous Security Monitoring with SIEM Solutions
 </div>
   
 <h3 align="center">

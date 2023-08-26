@@ -198,7 +198,7 @@ Topics
       Project: Building a Honeypot to Lure Cyber Intruders
       Project: Firewall Rule Optimization for Maximum Security
    <!--   Project D: Crafting Custom Intrusion Detection Signatures -->
-      Project E: Exploiting Cross-Site Scripting Vulnerabilities
+      Project: Exploiting Cross-Site Scripting Vulnerabilities
   <!--    Project F: Securing Web Applications with OWASP Top Ten -->
   <!--    Project G: Designing a Secure Multi-factor Authentication System -->
       Project: Malware Analysis and Dynamic Behavior Profiling
@@ -208,7 +208,7 @@ Topics
       Project: Host-based Intrusion Detection System (HIDS) Setup
    <!--   Project N: Cryptography for Network Traffic Encryption -->
       Project: Cloud Security Configuration and Best Practices
-    <!--  Project: Social Engineering and Phishing Simulations -->
+ <!-- Project: Social Engineering and Phishing Simulations -->
       Project: Vulnerability Scanning and Patch Management
   <!--    Project S: Implementing a Software Defined Network (SDN)  -->
 <!--      Project T: Network Traffic Anomaly Detection using Machine Learning -->

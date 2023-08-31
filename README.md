@@ -77,9 +77,7 @@ And above all else, leave yourself notes
  
 <!-- 
                                             <details>
-                                            <summary>Web development</summary> Web development, 
-                                            also known as website development, refers to the tasks 
-                                            associated with creating, building, and maintaining websites.
+                                            <summary>Web development</summary> 
                                             </p>
                                             </details>
 -->
@@ -194,7 +192,7 @@ developed a set of active attack mechanisms to infiltrate a system on different 
 <!-- Description document which defines the guidelines/deliverables and in some cases input and example of output files. -->
 
 <h3 align="center">
-<div><details><summary><b>Interests</summary></b>
+<div><details><summary><b>𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚝𝚘𝚙𝚒𝚌𝚜</summary></b>
 
 <div style="text-align: left;">
 Topics

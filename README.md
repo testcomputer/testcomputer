@@ -195,7 +195,7 @@ developed a set of active attack mechanisms to infiltrate a system on different 
 <div><details><summary><b>𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚝𝚘𝚙𝚒𝚌𝚜</summary></b>
 
 <div style="text-align: left;">
-Topics
+
  
       Project: Network Sniffing and Analysis with Wireshark
       Project: Building a Honeypot to Lure Cyber Intruders

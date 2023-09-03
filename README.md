@@ -93,7 +93,7 @@ And above all else, leave yourself notes
                                             </details>
 -->
 
-<h3 align="center"> Languages and Tools I use:</h3>
+<h3 align="center"> Languages & Tools I use:</h3>
 <p align="center"> <a href="https://azure.com/" target="_blank">
 <img src="https://clipground.com/images/microsoft-azure-clipart-logo-4.png" alt="azure" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"> 

@@ -116,7 +116,7 @@ And above all else, leave yourself notes
 <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="40" height="40"/></a>
 <a href="https://kali.org/" target="_blank"> 
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Forig12.deviantart.net%2F402b%2Ff%2F2015%2F318%2F9%2F6%2Fmortal_kombat_logo_2_by_llexandro-d9gpghl.png&f=1&nofb=1&ipt=56bc011d65a99ea52b81097395d92e15f3d3f7fe203b5100ed093be5b2a287ef&ipo=images" alt="git" width="40" height="40"/> 
-        </a> <!-- {YOU_FOUND.THE.FLAG} -->
+        </a> 
 <a href="https://git-scm.com/" target="_blank"> 
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank">  
@@ -264,7 +264,7 @@ developed a set of active attack mechanisms to infiltrate a system on different 
   
 <!--
   
-<table><tr><td><a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">
+<table><tr><td><!-- {you-found-the-flag!} --><a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">
 <img width="140px" src="https://user-images.githubusercontent.com/104815254/230734507-d07ffaeb-0539-4630-a1cf-53ab10ca6bbe.png"></a></td>
 <td><a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">Career Growth Strategies — April 2023</a><br/>Apr 3, 2023</td></tr></table>
 -->

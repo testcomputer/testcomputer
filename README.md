@@ -260,14 +260,11 @@ developed a set of active attack mechanisms to infiltrate a system on different 
 <td><a href="https://www.youtube.com/watch?v=dPwy8nlNyNM">Sydney DevOps Meetup — August 2021</a>
 <br/>Aug 20, 2021</td></tr></table>
 
-<!-- YouTube Playlist End -->
-  
-<!--
-  
-<table><tr><td><!-- {you-found-the-flag!} --><a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">
+<!-- YouTube Playlist End 
+  {you-found-the-flag!} -->
+<!--<table><tr><td><a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">
 <img width="140px" src="https://user-images.githubusercontent.com/104815254/230734507-d07ffaeb-0539-4630-a1cf-53ab10ca6bbe.png"></a></td>
-<td><a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">Career Growth Strategies — April 2023</a><br/>Apr 3, 2023</td></tr></table>
--->
+<td><a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">Career Growth Strategies — April 2023</a><br/>Apr 3, 2023</td></tr></table>-->
 
 <a href="https://www.gnu.org/software/bash/">
 <img src="https://github.com/testcomputer/testcomputer/assets/104815254/9e72027b-9b84-488d-85c4-3dc58d5443b4"</a>

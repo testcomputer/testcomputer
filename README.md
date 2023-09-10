@@ -60,7 +60,7 @@ And above all else, leave yourself notes
  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=testcomputer&count_private=true&theme=tokyonight&showicons=true)]()</h1>
 
-
+<!-- notate errors -->
 <h4 align="center">
  <details>
   <summary>

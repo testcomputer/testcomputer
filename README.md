@@ -2,6 +2,7 @@
 **testcomputer/testcomputer** 
 Keep your code neat
 Maintain simply structure
+Refactor when possible
 And above all else, leave yourself notes
 -->
 

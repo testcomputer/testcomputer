@@ -22,7 +22,7 @@ And above all else, leave yourself notes
 </h1> 
 -->
 
- - :telescope:𝚗𝚎𝚝𝚠𝚘𝚛𝚔 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢
+ - :telescope: 𝚗𝚎𝚝𝚠𝚘𝚛𝚔 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢
    
  🧮 𝚙𝚞𝚛𝚜𝚞𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚒𝚎𝚜 𝚒𝚗 𝚒𝚗𝚏𝚘-𝚜𝚎𝚌 𝚊𝚝 [𝚂𝙰𝙽𝚂 𝙸𝚗𝚜𝚝𝚒𝚝𝚞𝚝𝚎](https://www.sans.org/)
    

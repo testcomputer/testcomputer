@@ -3,7 +3,7 @@
 Keep your code neat
 Maintain simply structure
 Refactor when possible
-And above all else, leave yourself notes
+And above all else, leave yourself notes, explain the code.
 -->
 
 <h1 align="center">

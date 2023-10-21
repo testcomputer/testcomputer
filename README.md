@@ -5,6 +5,10 @@ Maintain simply structure
 Refactor when possible
 And above all else, leave yourself notes, explain the code.
 -->
+
+
+Remember, security is a multi-layered approach. It's not just about securing the server configuration, but also about ensuring secure coding practices, maintaining the server, monitoring for intrusions, having a response plan, and keeping everything updated. Always stay informed about the latest security best practices and vulnerabilities related to your stack.
+
 <h1 align="center">
 <img src="" width="750" height="1">
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="750" height="1"><img src="https://camo.githubusercontent.com/d88bdce683bc31abcfc8fd8774880f5a305e4e59/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" /><br>

@@ -27,7 +27,7 @@ Remember, security is a multi-layered approach. It's not just about securing the
 
  - :telescope: 𝚗𝚎𝚝𝚠𝚘𝚛𝚔 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢_
    
- 🧮 𝚙𝚞𝚛𝚜𝚞𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚒𝚎𝚜 𝚒𝚗 𝚒𝚗𝚏𝚘-𝚜𝚎𝚌 𝚊𝚝 [𝚂𝙰𝙽𝚂 𝙸𝚗𝚜𝚝𝚒𝚝𝚞𝚝𝚎](https://www.sans.org/)
+ 🧮 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚒𝚗𝚏𝚘-𝚜𝚎𝚌 𝚊𝚝 [𝚂𝙰𝙽𝚂 𝙸𝚗𝚜𝚝𝚒𝚝𝚞𝚝𝚎](https://www.sans.org/)
    
  - :seedling: 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚌𝚘𝚗𝚝𝚎𝚗𝚝 𝚠𝚛𝚒𝚝𝚒𝚗𝚐 & 𝚟𝚒𝚛𝚝𝚞𝚊𝚕 𝚗𝚎𝚝𝚠𝚘𝚛𝚔 𝚍𝚎𝚜𝚒𝚐𝚗
    

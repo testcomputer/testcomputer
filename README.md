@@ -7,8 +7,7 @@ And above all else, leave yourself notes, explain the code.
 -->
 
 
-𝚁𝚎𝚖𝚎𝚖𝚋𝚎𝚛, 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚒𝚜 𝚊 𝚖𝚞𝚕𝚝𝚒-𝚕𝚊𝚢𝚎𝚛𝚎𝚍 𝚊𝚙𝚙𝚛𝚘𝚊𝚌𝚑. 𝙸𝚝'𝚜 𝚗𝚘𝚝 𝚓𝚞𝚜𝚝 𝚊𝚋𝚘𝚞𝚝 𝚜𝚎𝚌𝚞𝚛𝚒𝚗𝚐 𝚝𝚑𝚎 𝚜𝚎𝚛𝚟𝚎𝚛 𝚌𝚘𝚗𝚏𝚒𝚐𝚞𝚛𝚊𝚝𝚒𝚘𝚗, 𝚋𝚞𝚝 𝚊𝚕𝚜𝚘 𝚊𝚋𝚘𝚞𝚝 𝚎𝚗𝚜𝚞𝚛𝚒𝚗𝚐 𝚜𝚎𝚌𝚞𝚛𝚎 𝚌𝚘𝚍𝚒𝚗𝚐 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎𝚜, 𝚖𝚊𝚒𝚗𝚝𝚊𝚒𝚗𝚒𝚗𝚐 𝚝𝚑𝚎 𝚜𝚎𝚛𝚟𝚎𝚛, 𝚖𝚘𝚗𝚒𝚝𝚘𝚛𝚒𝚗𝚐 𝚏𝚘𝚛 𝚒𝚗𝚝𝚛𝚞𝚜𝚒𝚘𝚗𝚜, 𝚑𝚊𝚟𝚒𝚗𝚐 𝚊 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚎 𝚙𝚕𝚊𝚗, 𝚊𝚗𝚍 𝚔𝚎𝚎𝚙𝚒𝚗𝚐 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 𝚞𝚙𝚍𝚊𝚝𝚎𝚍. 𝙰𝚕𝚠𝚊𝚢𝚜 𝚜𝚝𝚊𝚢 𝚒𝚗𝚏𝚘𝚛𝚖𝚎𝚍 𝚊𝚋𝚘𝚞𝚝 𝚝𝚑𝚎 𝚕𝚊𝚝𝚎𝚜𝚝 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚋𝚎𝚜𝚝 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎𝚜 𝚊𝚗𝚍 𝚟𝚞𝚕𝚗𝚎𝚛𝚊𝚋𝚒𝚕𝚒𝚝𝚒𝚎𝚜 𝚛𝚎𝚕𝚊𝚝𝚎𝚍 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚜𝚝𝚊𝚌𝚔.
-
+Remember, security is a multi-layered approach. It's not just about securing the server configuration, but also about ensuring secure coding practices, maintaining the server, monitoring for intrusions, having a response plan, and keeping everything updated. Always stay informed about the latest security best practices and vulnerabilities related to your stack.
 <h1 align="center">
 <img src="" width="750" height="1">
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="750" height="1"><img src="https://camo.githubusercontent.com/d88bdce683bc31abcfc8fd8774880f5a305e4e59/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" /><br>

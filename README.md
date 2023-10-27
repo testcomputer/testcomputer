@@ -48,7 +48,7 @@ And above all else, leave yourself notes, explain the code.
 
 -->
 
-<!-- Color coordinate images -->
+<!-- Color coordinate images  -->
 
 <h1 align="center"><a href="https://www.linkedin.com/in/daniel-j-w-torres/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>

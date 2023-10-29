@@ -43,11 +43,10 @@ And above all else, leave yourself notes, explain the code.
 
 <!-- Color coordinate images  -->
 
+<!--
 <h1 align="center"><a href="https://www.linkedin.com/in/daniel-j-w-torres/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <!-- <a href="https://www.youtube.com/channel/UCwlMLasm-aDMaSQc62F92Zg/"> -->
-
-<!--
  <a href="https://www.twitter.com/danijordwiletor">
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 <a href="https://discord.com/channels/1033909070643609662/1033909071520206899">

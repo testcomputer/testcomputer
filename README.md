@@ -12,7 +12,7 @@ And above all else, leave yourself notes, explain the code.
  
 <!--  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@testcomputer/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@testcomputer/0" alt="Recent Article 0"> --> 
 <!-- <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="750" height="1"> -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="testcomputer" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="testcomputer" /> </p>
 <!-- 
 <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"/>
 </h1> 
@@ -54,7 +54,7 @@ And above all else, leave yourself notes, explain the code.
 <a href="https://www.youtube.com/@danijordwiletorr"> 
 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 <a href="https://github.com/testcomputer"> 
-<img src="https://camo.githubusercontent.com/b994fc2dc47e1b1c3bb4932c4b37df5930ec6cae8187a2f363ff63a906b23de4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d776869746527" ata-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white'" style="max-width: 100%;"> <!-- temp fix, open a issue. resolve this --><h1 align="center"> -->
+<img src="https://camo.githubusercontent.com/b994fc2dc47e1b1c3bb4932c4b37df5930ec6cae8187a2f363ff63a906b23de4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d776869746527" ata-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white'" style="max-width: 100%;"> <!-- temp fix, open a issue. resolve this --><h1 align="center">
 
  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=testcomputer&count_private=true&theme=tokyonight&showicons=true)]()</h1>

@@ -276,13 +276,14 @@ developed a set of active attack mechanisms to infiltrate a system on different 
 <img width="140px" src="https://user-images.githubusercontent.com/104815254/230734507-d07ffaeb-0539-4630-a1cf-53ab10ca6bbe.png"></a></td>
 <td><a href="https://engineeur.com/f/career-growth-strategies-for-new-professionals">Career Growth Strategies — April 2023</a><br/>Apr 3, 2023</td></tr></table>-->
 
-</b><h6><i>Effective security is a multi-layered strategy, encompassing far more than just server configuration. It begins with the implementation of secure coding practices, which are fundamental in preventing vulnerabilities at the source code level. Regular maintenance of the server is crucial to ensure that it remains robust against emerging threats. Equally important is proactive monitoring for any signs of intrusion, enabling timely detection and response to potential security breaches.
+</b><h6><i>Effective security is a multi-layered strategy, far more than just server configuration. It begins with secure coding practices, which are fundamental in preventing vulnerabilities at the source code level. Regular maintenance of the server is crucial to ensure that it remains robust against emerging threats. Equally important is proactive monitoring for any signs of intrusion, enabling timely detection and response to potential security breaches.
 
   Having a well-defined incident response plan is essential. This plan should include clear procedures for addressing security incidents, ensuring minimal impact and swift recovery. Regular updates are a cornerstone of security; staying current with patches and updates for your software stack is non-negotiable in safeguarding against known vulnerabilities.
 
   Beyond these practical measures, continuous education and awareness are key. Keeping abreast of the latest security best practices, as well as being informed about new vulnerabilities specific to your technology stack, is critical in adapting and fortifying your security posture against an ever-evolving threat landscape. Remember, security is not a one-time task but a continuous process of improvement and adaptation.
 </h6></i>
 
+Having a clear plan for dealing with security problems is a must. 
 
 <a href="https://www.gnu.org/software/bash/">
 <img src="https://github.com/testcomputer/testcomputer/assets/104815254/9e72027b-9b84-488d-85c4-3dc58d5443b4"</a>

@@ -282,9 +282,9 @@ developed a set of active attack mechanisms to infiltrate a system on different 
   Having a well-defined incident response plan is essential. This plan should include clear procedures for addressing security incidents, ensuring minimal impact and swift recovery. Regular updates are a cornerstone of security; staying current with patches and updates for your software stack is non-negotiable in safeguarding against known vulnerabilities.
 
   Beyond these practical measures, continuous education and awareness are key. Keeping abreast of the latest security best practices, as well as being informed about new vulnerabilities specific to your technology stack, is critical in adapting and fortifying your security posture against an ever-evolving threat landscape. Remember, security is not a one-time task but a continuous process of improvement and adaptation.
-</h6></i>
 
-Having a clear plan for dealing with security problems is a must. 
+
+Having a clear plan for dealing with security problems is a must. </h6></i>
 
 <a href="https://www.gnu.org/software/bash/">
 <img src="https://github.com/testcomputer/testcomputer/assets/104815254/9e72027b-9b84-488d-85c4-3dc58d5443b4"</a>

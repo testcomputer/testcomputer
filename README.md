@@ -149,7 +149,7 @@ practices, maintaining the server, monitoring for intrusions, having a response 
 
 <h2 align="center">Network Security Projects</h1>
 
-Welcome to my digital fortress of network security. Here, I explore the world of cybersecurity, balancing attack and defense strategies. This space is a collection of projects focusing on network vulnerabilities and how to counter them. I work mainly with Lua,Ruby, & Python in a Linux setting. Every project contributes to our understanding of cybersecurity, providing practical solutions. I encourage fellow enthusiasts and collaborators to join in this journey of discovery and innovation in network security. Inside, you'll find each project rich with valuable insights and tools.
+Welcome to my digital fortress of network security. Here, I explore the world of cybersecurity, balancing attack and defense strategies. This space is a collection of projects focusing on network vulnerabilities and how to counter them. I work mainly with Lua, Ruby, & Python in a Linux setting. Every project contributes to our understanding of cybersecurity, providing practical solutions. I encourage fellow enthusiasts and collaborators to join in this journey of discovery and innovation in network security. Inside, you'll find each project rich with valuable insights and tools.
 
 
 </h2>

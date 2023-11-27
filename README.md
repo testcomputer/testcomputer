@@ -4,6 +4,8 @@ Keep your code neat
 Maintain simply structure
 Refactor when possible
 And above all else, leave yourself notes, explain the code.
+Refactor needed. 2024
+
 -->
 
 <!-- edit title, youtube playlist, update with current videos, simple, clean code-->

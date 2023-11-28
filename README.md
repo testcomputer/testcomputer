@@ -6,6 +6,9 @@ Refactor when possible
 And above all else, leave yourself notes, explain the code.
 Refactor needed. 2024
 
+Include exmaples, links, articles
+
+
 -->
 
 <!-- edit title, youtube playlist, update with current videos, simple, clean code-->

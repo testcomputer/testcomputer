@@ -8,6 +8,7 @@ Refactor needed. 2024
 
 Include exmaples, links, articles
 
+Graphs, visuals, and examples
 
 -->
 

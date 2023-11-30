@@ -7,7 +7,7 @@ And above all else, leave yourself notes, explain the code.
 Refactor needed. 2024
 
 Include exmaples, links, articles
-
+modernize, update
 Graphs, visuals, and examples
 
 -->

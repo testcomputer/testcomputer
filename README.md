@@ -12,6 +12,8 @@ Graphs, visuals, and examples
 Input examples
 2924 update needed
 
+
+Take for a full refactor
 -->
 
 <!-- edit title, youtube playlist, update with current videos, simple, clean code-->

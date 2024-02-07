@@ -14,7 +14,8 @@ Input examples
 
 
 Take for a full refactor
--->
+
+Main display. Simple is more-->
 
 <!-- edit title, youtube playlist, update with current videos, simple, clean code-->
 <i>Remember, security is a multi-layered approach. 

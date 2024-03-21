@@ -68,7 +68,7 @@ practices, maintaining the server, monitoring for intrusions, having a response 
 
 <!-- Color coordinate images  -->
 
-<!--
+<!-- Refactor, reminder part 2
 
 <h1 align="center"><a href="https://www.linkedin.com/in/daniel-j-w-torres/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>

@@ -54,7 +54,7 @@ practices, maintaining the server, monitoring for intrusions, having a response 
    
  - :zap: 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚎𝚖𝚎𝚛𝚐𝚒𝚗𝚐 𝚎𝚕𝚎𝚌𝚝𝚛𝚒𝚌 𝚊𝚞𝚝𝚘𝚖𝚘𝚝𝚒𝚟𝚎 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢!
    
- - 📬: 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: [LinkedIn](https://www.linkedin.com/in/daniel-j-w-torres)
+ - 📬: 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: [̶L̶i̶n̶k̶e̶d̶I̶n̶]̶(https://www.linkedin.com/in/daniel-j-w-torres)
 
 <!--
                                                 Understand the code 

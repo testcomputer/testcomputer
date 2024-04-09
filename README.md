@@ -1,21 +1,20 @@
 <!--
-**testcomputer/testcomputer** 
-Keep your code neat
-Maintain simply structure
-Refactor when possible
-And above all else, leave yourself notes, explain the code.
-Refactor needed. 2024
 
-Include exmaples, links, articles
-modernize, update
-Graphs, visuals, and examples
-Input examples
-2924 update needed
-Research entry point
+# testcomputer/testcomputer
+## Code Standards
+- Keep your code neat.
+- Maintain a simple structure.
+- Refactor when possible.
+- Leave comments to explain complex code segments.
+- Aim for modern, readable, and maintainable code.
+## Updates and Refactoring
+- **2024 Update:** Description of updates or refactoring needed.
+## Additional Resources
+- Links to external documentation, articles, or resources relevant to the project.
+## Visuals
+- Include graphs, visuals, and examples where applicable.
 
-Take for a full refactor
-
-Main display. Simple is more-->
+-->
 
 
 <!-- edit title, youtube playlist, update with current videos, simple, clean code-->

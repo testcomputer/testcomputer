@@ -224,7 +224,7 @@ developed a set of active attack mechanisms to infiltrate a system on different 
   </tr>
   <tr>
     <td style="text-align: center;">
-      <a href="https://letsdefend.io"><img src="https://letsdefend.io/static/img/letsdefend-logo.png" height="140px" width="140px"></a>
+      <a href="https://letsdefend.io"><img src="https://github.com/testcomputer/testcomputer/assets/104815254/e8ef458b-86dd-428e-9346-7f8f41fe2c95" height="140px" width="140px"></a>
       <br>
       𝙻𝚎𝚝𝚜𝙳𝚎𝚏𝚎𝚗𝚍
     </td>

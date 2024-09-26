@@ -313,7 +313,7 @@ Having a clear plan for dealing with security problems is a must. </h6></i>
 <a href="https://www.gnu.org/software/bash/">
 <img src="https://github.com/testcomputer/testcomputer/assets/104815254/9e72027b-9b84-488d-85c4-3dc58d5443b4"</a>
 
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="daniel-j-w-torres" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/daniel-j-w-torres?trk=profile-badge">Daniel J. W. Torres</a></div>
+<!-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="daniel-j-w-torres" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/daniel-j-w-torres?trk=profile-badge">Daniel J. W. Torres</a></div> -->
               
    
 <p align="center"> <a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png" 
